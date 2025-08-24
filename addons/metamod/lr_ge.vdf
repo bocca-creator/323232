@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"lr_ge"
+	"file"	"addons/lr_modules/lr_ge"
+}

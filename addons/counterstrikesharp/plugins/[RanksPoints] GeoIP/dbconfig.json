@@ -1,0 +1,8 @@
+{
+  "DbHost": "46.174.50.7",
+  "DbUser": "u36806_lrweb",
+  "DbPassword": "282871bdbd",
+  "DbName": "u36806_lrweb",
+  "DbPort": "3306",
+  "TableName": "lvl_base_geoip"
+}

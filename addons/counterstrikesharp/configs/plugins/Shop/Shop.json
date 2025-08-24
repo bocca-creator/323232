@@ -1,0 +1,12 @@
+{
+	"DatabaseHost": "46.174.50.9",
+	"DatabasePort": 3306,
+	"DatabaseUser": "",
+	"DatabasePassword": "",
+	"DatabaseName": "",
+	"Commands": "css_shop;css_store",
+	"UseCenterMenu": true,
+	"StartCredits": 0,
+	"TransCreditsPercent": 5,
+	"AdminFlag": "@css/root"
+}

@@ -1,0 +1,5 @@
+2025-01-02 00:02:13.792 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'HoneyZ #GGDROP' to 'HoneyZ #' for player with SteamID 76561199813979678
+2025-01-02 09:30:17.254 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145
+2025-01-02 10:16:17.698 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145
+2025-01-02 10:38:23.199 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145
+2025-01-02 16:10:03.447 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145

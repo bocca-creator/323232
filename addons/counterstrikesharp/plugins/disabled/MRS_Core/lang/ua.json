@@ -1,0 +1,34 @@
+{
+    "chatPrefix": " {LightRed}[ЗВІТ]◗ {Default} ",
+
+    "targetIsOut_Chat": "На жаль, гравець вийшов з сервера",
+    "targetIsOut_Hud": "На жаль, гравець вийшов з сервера",
+
+    "sentReport_Chat": "Ви {Lime}відправили {Default}звіт на {Grey}{TARGET_NAME} {Default}з причиною: {Grey}{REASON}",
+    "sentReportMessage_Chat": "Ви {Lime}відправили {Default}звіт на {Grey}{TARGET_NAME} {Default}з повідомленням: {Grey}{REASON}",
+
+    "selectPlayerCustomReason_Chat": "Помилка, виберіть гравця, щоб вказати причину =(",
+    "selectPlayerCustomReason_Hud": "Помилка, виберіть гравця, щоб вказати причину =(",
+
+    "customReason_Chat": "Введіть !reason {LightRed}*причина*{Default}. Наприклад: !reason {LightRed}попрохайка",
+    "customReason_Hud": "Введіть !reason *причина*. Наприклад: !reason попрохайка",
+
+    "zeroPlayers_Chat": "На жаль, немає доступних гравців",
+    "zeroPlayers_Hud": "На жаль, немає доступних гравців",
+
+    "cooldown_Chat": "Помилка, звіт можна буде відправити через {LightRed}{MIN}{Default} хвилин {LightRed}{SEC}{Default} секунд.",
+    "cooldown_Hud": "Помилка, звіт можна буде відправити через {MIN} хвилин {SEC} секунд.",
+
+    "canceledReport_Chat": "Ви {LightRed}скасували {Default}звіт на {Grey}{TARGET_NAME}",
+    "canceledReport_Hud": "Ви скасували звіт на {TARGET_NAME}",
+
+    "menuTitle_SelectPlayer": "[ЗВІТ] Обери гравця",
+    "menuTitle_SelectReason": "[ЗВІТ] Обери причину",
+    "menuTitle_SelectMessage": "[ЗВІТ] Обери повідомлення",
+
+    "menuItem_Back": "повернутися",
+
+    "menuItem_Cancel": "скасувати звіт",
+    "menuItem_CustomReason": "ввести свою причину",
+    "menuItem_SelectMessage": "повідомлення з чату"
+}

@@ -1,0 +1,258 @@
+2025-01-01 02:59:58.379 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> MySqlConnector.MySqlException (0x80004005): Connect Timeout expired.
+ ---> MySqlConnector.MySqlException (0x80004005): Connect Timeout expired.
+   at MySqlConnector.Core.ServerSession.OpenTcpSocketAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 1046
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, MySqlConnection connection, Int64 startingTimestamp, ILoadBalancer loadBalancer, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 425
+   at MySqlConnector.Core.ConnectionPool.ConnectSessionAsync(MySqlConnection connection, Action`4 logMessage, Int64 startingTimestamp, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 428
+   at MySqlConnector.Core.ConnectionPool.ConnectSessionAsync(MySqlConnection connection, Action`4 logMessage, Int64 startingTimestamp, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 433
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, Int64 startingTimestamp, Int32 timeoutMilliseconds, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 111
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, Int64 startingTimestamp, Int32 timeoutMilliseconds, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 144
+   at MySqlConnector.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Int64 startingTimestamp, Activity activity, Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 919
+   at MySqlConnector.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Int64 startingTimestamp, Activity activity, Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 951
+   at MySqlConnector.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 419
+   at MySqlConnector.MySqlConnection.Open() in /_/src/MySqlConnector/MySqlConnection.cs:line 381
+   at WorldTextExpTop.WorldTextExpTop.CheckTop()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 09:11:43.779 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentNullException: Schema target points to null. (Parameter 'pointer')
+   at CounterStrikeSharp.API.Modules.Memory.Schema.GetDeclaredClass[T](IntPtr pointer, String className, String memberName) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Modules/Memory/Schema.cs:line 101
+   at Shop_Tags.Shop_Tags.OnClientToggleItem(CCSPlayerController player, Int32 ItemID, String UniqueName, Int32 State) in C:\Users\vital\Desktop\Разное\Скриптинг\Скриптинг CS2 (csharp)\managed\Shop_Skins\Shop_Skins.cs:line 159
+   at Shop.Shop.<>c__DisplayClass34_4.<OnClientAuthorized>b__6() in C:\Users\vital\Desktop\Разное\Скриптинг\Скриптинг CS2 (csharp)\managed\Shop\Shop.cs:line 793
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 09:30:13.419 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2025-01-01 09:30:13.475 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2025-01-01 09:30:13.482 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/TeleportFix.json
+2025-01-01 09:30:13.484 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2025-01-01 09:30:13.484 +03:00 [WARN] (cssharp:GameDataProvider) GameData Method "RunCommand" loaded a duplicate entry from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json.
+2025-01-01 09:30:13.484 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json
+2025-01-01 09:30:13.486 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 40 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2025-01-01 09:30:13.486 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2025-01-01 09:30:13.493 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2025-01-01 09:30:13.493 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2025-01-01 09:30:13.495 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2025-01-01 09:30:13.664 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ResetScore
+2025-01-01 09:30:13.766 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ResetScore
+2025-01-01 09:30:13.782 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MeowCheckCheats
+2025-01-01 09:30:13.808 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MeowCheckCheats
+2025-01-01 09:30:13.821 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Game-Manager-GoldKingZ
+2025-01-01 09:30:13.840 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Game Manager (Block/Hide Unnecessaries In Game)
+2025-01-01 09:30:13.846 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_Skins
+2025-01-01 09:30:13.847 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Skins
+2025-01-01 09:30:13.852 +03:00 [INFO] (cssharp:PluginContext) Loading plugin TeleportFix
+2025-01-01 09:30:13.863 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin HvH.gg - Teleport/Crasher Fix
+2025-01-01 09:30:13.868 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_MoneyDistributor
+2025-01-01 09:30:13.870 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Money Distributor
+2025-01-01 09:30:13.875 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WorldTextExpTop
+2025-01-01 09:30:14.119 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WorldTextExpTop
+2025-01-01 09:30:14.135 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WarnSystem
+2025-01-01 09:30:14.199 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WarnSystem
+2025-01-01 09:30:14.207 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AdminSessionLog
+2025-01-01 09:30:14.209 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AdminSessionLog
+2025-01-01 09:30:14.215 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ShowDamage
+2025-01-01 09:30:14.277 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ShowDamage by ABKAM
+2025-01-01 09:30:14.289 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ClearNickname
+2025-01-01 09:30:14.300 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ClearNickname
+2025-01-01 09:30:14.354 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DiscordUtilities
+2025-01-01 09:30:14.494 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Discord Utilities
+2025-01-01 09:30:14.505 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2025-01-01 09:30:14.506 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2025-01-01 09:30:14.512 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NoColdown
+2025-01-01 09:30:14.513 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NoColdown
+2025-01-01 09:30:14.518 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Core
+2025-01-01 09:30:14.651 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Core
+2025-01-01 09:30:14.667 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop
+2025-01-01 09:30:14.678 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Shop Core
+2025-01-01 09:30:14.691 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DisableLogs
+2025-01-01 09:30:14.694 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Disable shit logs
+2025-01-01 09:30:14.699 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifySent
+2025-01-01 09:30:14.701 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifySent
+2025-01-01 09:30:14.707 +03:00 [INFO] (cssharp:PluginContext) Loading plugin [RanksPoints] GeoIP
+2025-01-01 09:30:14.902 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [RanksPoints] GeoIP
+2025-01-01 09:30:14.925 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2025-01-01 09:30:15.097 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2025-01-01 09:30:15.116 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Telegram
+2025-01-01 09:30:15.120 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Telegram
+2025-01-01 09:30:15.139 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-01 09:30:15.168 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-01 09:30:15.175 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Advertisement
+2025-01-01 09:30:15.183 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Advertisement
+2025-01-01 09:30:15.191 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ESP
+2025-01-01 09:30:15.192 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Admin] ESP
+2025-01-01 09:30:15.199 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2025-01-01 09:30:15.221 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2025-01-01 09:30:15.231 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2025-01-01 09:30:15.253 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2025-01-01 09:30:15.266 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2025-01-01 09:30:15.273 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2025-01-01 09:30:15.281 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ServerStatus
+2025-01-01 09:30:15.286 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Server Status
+2025-01-01 09:30:15.293 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifyInGame
+2025-01-01 09:30:15.295 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifyInGame
+2025-01-01 09:30:15.310 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ChatRelay
+2025-01-01 09:30:15.317 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Chat Relay
+2025-01-01 09:30:15.326 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Weapon_Restrict
+2025-01-01 09:30:15.332 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Weapon Restrict
+2025-01-01 09:30:15.346 +03:00 [INFO] (cssharp:PluginContext) Loading plugin vipConvert
+2025-01-01 09:30:15.349 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin vipConvert
+2025-01-01 09:30:15.356 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2025-01-01 09:30:15.362 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2025-01-01 09:30:15.412 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Discord
+2025-01-01 09:30:15.473 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Discord
+2025-01-01 09:30:19.623 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-01 09:30:19.625 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-01 09:30:19.650 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-01 09:30:19.658 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-01 09:30:21.955 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-01 09:30:21.955 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-01 09:30:21.965 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-01 09:30:21.976 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-01 09:30:24.398 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-01 09:30:24.398 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-01 09:30:24.423 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-01 09:30:24.425 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-01 18:28:20.206 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.InvalidOperationException: Entity is not valid
+   at CounterStrikeSharp.API.Core.CCSPlayerController.get_AuthorizedSteamID() in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Model/CCSPlayerController.cs:line 297
+   at MRS_Core.MRSCore.a.c()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 18:38:32.285 +03:00 [WARN] (cssharp:Core) Display should not be longer than 26 characters for a CenterHtmlMenu item
+2025-01-01 18:38:34.238 +03:00 [WARN] (cssharp:Core) Display should not be longer than 26 characters for a CenterHtmlMenu item
+2025-01-01 22:51:33.289 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-01 22:51:33.290 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-01 22:51:33.300 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-01 22:51:33.307 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-01 22:56:06.698 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.InvalidOperationException: Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct.
+   at System.Collections.Generic.Dictionary`2.FindValue(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at Iks_VIPConvert.vipConvert.SetVipFlags(List`1 admins) in D:\Dev\vipConvert RELEASE\vipConvert.cs:line 152
+   at Iks_VIPConvert.vipConvert.<>c__DisplayClass15_0.<SetFlagsToVips>b__0()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 22:56:06.705 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.InvalidOperationException: Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct.
+   at System.Collections.Generic.Dictionary`2.FindValue(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at Iks_VIPConvert.vipConvert.SetVipFlags(List`1 admins) in D:\Dev\vipConvert RELEASE\vipConvert.cs:line 152
+   at Iks_VIPConvert.vipConvert.<>c__DisplayClass15_0.<SetFlagsToVips>b__0()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 22:56:06.705 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.InvalidOperationException: Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct.
+   at System.Collections.Generic.Dictionary`2.FindValue(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at Iks_VIPConvert.vipConvert.SetVipFlags(List`1 admins) in D:\Dev\vipConvert RELEASE\vipConvert.cs:line 152
+   at Iks_VIPConvert.vipConvert.<>c__DisplayClass15_0.<SetFlagsToVips>b__0()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 22:56:06.706 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.InvalidOperationException: Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct.
+   at System.Collections.Generic.Dictionary`2.FindValue(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at Iks_VIPConvert.vipConvert.SetVipFlags(List`1 admins) in D:\Dev\vipConvert RELEASE\vipConvert.cs:line 152
+   at Iks_VIPConvert.vipConvert.<>c__DisplayClass15_0.<SetFlagsToVips>b__0()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 23:35:11.060 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.InvalidOperationException: Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct.
+   at System.Collections.Generic.Dictionary`2.FindValue(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at Iks_VIPConvert.vipConvert.SetVipFlags(List`1 admins) in D:\Dev\vipConvert RELEASE\vipConvert.cs:line 152
+   at Iks_VIPConvert.vipConvert.<>c__DisplayClass15_0.<SetFlagsToVips>b__0()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 23:35:11.068 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.InvalidOperationException: Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct.
+   at System.Collections.Generic.Dictionary`2.FindValue(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at Iks_VIPConvert.vipConvert.SetVipFlags(List`1 admins) in D:\Dev\vipConvert RELEASE\vipConvert.cs:line 152
+   at Iks_VIPConvert.vipConvert.<>c__DisplayClass15_0.<SetFlagsToVips>b__0()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 23:35:11.070 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.InvalidOperationException: Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct.
+   at System.Collections.Generic.Dictionary`2.FindValue(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at Iks_VIPConvert.vipConvert.SetVipFlags(List`1 admins) in D:\Dev\vipConvert RELEASE\vipConvert.cs:line 152
+   at Iks_VIPConvert.vipConvert.<>c__DisplayClass15_0.<SetFlagsToVips>b__0()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 23:35:11.071 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.InvalidOperationException: Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct.
+   at System.Collections.Generic.Dictionary`2.FindValue(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at Iks_VIPConvert.vipConvert.SetVipFlags(List`1 admins) in D:\Dev\vipConvert RELEASE\vipConvert.cs:line 152
+   at Iks_VIPConvert.vipConvert.<>c__DisplayClass15_0.<SetFlagsToVips>b__0()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-01 23:48:23.799 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.InvalidOperationException: Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct.
+   at System.Collections.Generic.Dictionary`2.FindValue(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at Iks_VIPConvert.vipConvert.SetVipFlags(List`1 admins) in D:\Dev\vipConvert RELEASE\vipConvert.cs:line 152
+   at Iks_VIPConvert.vipConvert.<>c__DisplayClass15_0.<SetFlagsToVips>b__0()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100

@@ -1,0 +1,4 @@
+2025-08-10 14:22:35.710 +03:00 [EROR] plugin:Shop Core {OnConfigParsed} Unable to connect to database! | Access denied for user 'u36806_lrweb'@'46.174.49.43' (using password: YES)
+2025-08-10 14:22:38.343 +03:00 [EROR] plugin:Shop Core {AddItemInDB} Failed send info in database | Access denied for user 'u36806_lrweb'@'46.174.49.43' (using password: YES)
+2025-08-10 14:33:41.491 +03:00 [EROR] plugin:Shop Core {OnConfigParsed} Unable to connect to database! | Access denied for user 'u36806_lrweb'@'46.174.49.43' (using password: YES)
+2025-08-10 14:33:44.043 +03:00 [EROR] plugin:Shop Core {AddItemInDB} Failed send info in database | Access denied for user 'u36806_lrweb'@'46.174.49.43' (using password: YES)

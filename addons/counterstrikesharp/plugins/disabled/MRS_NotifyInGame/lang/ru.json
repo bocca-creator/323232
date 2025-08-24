@@ -1,0 +1,9 @@
+{
+    "chatPrefix": "{LightRed}[НОВЫЙ РЕПОРТ] {Default} ",
+    
+    "chat": "Пришел новый репорт на {LightRed}{TARGET_NAME}{DEFAULT} от {Green}{PLAYER_NAME}{DEFAULT}\nПричина: {Grey}{REASON}",
+    "chat_Message": "Пришел новый репорт на {LightRed}{TARGET_NAME}{DEFAULT} от {Green}{PLAYER_NAME}{DEFAULT}\nСообщение из чата: {Grey}{REASON}",
+    
+    "hud": "<font class='fontSize-sm'><center><b color='#ff2400'>[НОВЫЙ РЕПОРТ]</b></center><br>Пришел новый репорт на <b color='#ff2400'>{TARGET_NAME}</b><br>Отправитель <b color='#50c878'>{PLAYER_NAME}</b><br><br>Причина: {REASON}</font>",
+    "hud_Message": "<font class='fontSize-sm'><center><b color='#ff2400'>[НОВЫЙ РЕПОРТ]</b></center><br>Пришел новый репорт на <b color='#ff2400'>{TARGET_NAME}</b><br>Отправитель <b color='#50c878'>{PLAYER_NAME}</b><br><br>Сообщение из чата: {REASON}</font>"
+}

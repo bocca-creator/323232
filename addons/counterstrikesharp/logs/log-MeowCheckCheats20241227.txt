@@ -1,0 +1,2 @@
+2024-12-27 09:30:40.467 +03:00 [INFO] plugin:MeowCheckCheats The server has successfully passed the license check <3
+2024-12-27 09:47:34.544 +03:00 [INFO] plugin:MeowCheckCheats The server has successfully passed the license check <3

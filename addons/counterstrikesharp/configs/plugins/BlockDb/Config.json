@@ -1,0 +1,15 @@
+{
+  "ApiKey": "SA1PAFBwM9EP8WE8qDN84xZKnWLAlL5BNALAAx6FRvI0cEGCGSy3sl21AdQLkUpGCIZvWknmnNauo6J3W4CAJ9L0uWPcYN0185XM",
+  "SteamApiKey": "E1EA2E1691A51B562078E6022CC2DCC4",
+  "DisableLogMessages": false,
+  "DisableLogErrors": false,
+  "HudMessage": true,
+  "ChatMessage": false,
+  "MinPlayTimeSeconds": 0,
+  "AutoBlockBanCount": 3,
+  "AutoBlockIpBanCount": 3,
+  "DiscordWebhook": "https://discord.com/api/webhooks/1262451156337164348/e6DxYYd8R6q86isHpO0tC7VHifL5xENeytEiVRjA1zzYMWyI28dD8LQ1V_5jQ2Q_mpPP",
+  "IgnoreVoteBKM": false,
+  "MinAccountAgeSeconds": 0,
+  "Version": 0
+}

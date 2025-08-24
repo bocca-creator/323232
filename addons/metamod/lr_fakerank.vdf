@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"lr_fakerank"
+	"file"	"addons/lr_modules/lr_fakerank"
+}

@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"lr_hits"
+	"file"	"addons/lr_modules/lr_hits"
+}

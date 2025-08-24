@@ -1,0 +1,45 @@
+{
+  "Update Time": 33,
+  "Channel ID": "1278987637755088936",
+  "Message ID": "1278992733838770264",
+  "Server Status Embed": {
+    "Content": "",
+    "Title": "{Server.Name}",
+    "Description": "> IP: `{Server.IP}`\n> Осталось: `{Server.Timeleft}`",
+    "Fields": "👥 Игроков;{Server.OnlinePlayers}/{Server.MaxPlayers};True|🗺️ Карта;{Server.MapName};True",
+    "Thumbnail": "",
+    "Image": "https://cs-zames.ru/storage/cache/img/maps/730/{Server.MapName}.jpg",
+    "HEX Color": "#ffad33",
+    "Footer": "Last update",
+    "Footer Timestamp": true,
+    "Buttons": {
+      "Join Button": {
+        "Enabled": true,
+        "Button Text": "Зайти",
+        "Button URL": "{Server.JoinUrl}",
+        "Button Emoji": ":rocket:"
+      },
+      "Banlist Button": {
+        "Enabled": true,
+        "Button Text": "Банлист",
+        "Button Color": 4,
+        "Button Emoji": ":no_entry_sign:"
+      },
+      "Leaderboard Button": {
+        "Enabled": true,
+        "Server Name": "Public",
+        "Button Text": "Статистика",
+        "Button Color": 3,
+        "Button Emoji": ":trophy:"
+      },
+      "Search Player Button": {
+        "Enabled": true,
+        "Server Name": "Public",
+        "Button Text": "Поиск статистики",
+        "Button Color": 1,
+        "Button Emoji": ":bar_chart:"
+      }
+    }
+  },
+  "ConfigVersion": 1
+}

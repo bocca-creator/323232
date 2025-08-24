@@ -1,0 +1,2 @@
+2024-11-20 09:40:21.662 +03:00 [EROR] plugin:ServersInfo Failed to query server БЕШЕНЫЙ AWP © | PUBLIC (45.93.200.154:27017): Could not gather Info
+2024-11-20 13:43:23.038 +03:00 [EROR] plugin:ServersInfo Failed to query server БЕШЕНЫЙ AWP © | PUBLIC (45.93.200.154:27017): Could not gather Info

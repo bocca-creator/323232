@@ -1,0 +1,6 @@
+L 10/04/2024 - 22:58:32: [VIP] Missing MYSQL plugin
+L 10/04/2024 - 23:01:43: [VIP] Missing MYSQL plugin
+L 10/04/2024 - 23:03:04: [VIP] Missing MYSQL plugin
+L 10/04/2024 - 23:03:16: [VIP] Missing MYSQL plugin
+L 10/04/2024 - 23:24:03: [VIP] Missing MYSQL plugin
+L 10/04/2024 - 23:24:12: [VIP] Missing MYSQL plugin

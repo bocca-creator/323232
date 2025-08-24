@@ -1,0 +1,4 @@
+2025-01-10 09:30:35.635 +03:00 [INFO] plugin:[MRS] Core The server has successfully passed the license check <3
+2025-01-10 20:38:45.468 +03:00 [INFO] plugin:[MRS] Core The server has successfully passed the license check <3
+2025-01-10 20:40:11.780 +03:00 [INFO] plugin:[MRS] Core The server has successfully passed the license check <3
+2025-01-10 21:18:52.901 +03:00 [INFO] plugin:[MRS] Core The server has successfully passed the license check <3

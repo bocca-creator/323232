@@ -1,0 +1,3 @@
+L 08/06/2025 - 21:41:57: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/06/2025 - 21:41:57: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/06/2025 - 21:41:57: [VIP] Missing MYSQL plugin

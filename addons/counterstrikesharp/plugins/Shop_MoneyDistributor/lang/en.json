@@ -1,0 +1,7 @@
+{
+	"GiveIntervalCredits": "[{Green}Shop{Default}] You have received {Green}{0}{Default} credits per minute of playing on our server!",
+    "PlayerKill": "[{Green}Shop{Default}] You received {Green}{0}{Default} credits for killing a player!",
+	"PlayerDeath": "[{Green}Shop{Default}] They took {Green}{0}{Default} credits from you for dying!",
+	"RoundEnd": "[{Green}Shop{Default}] You received {Green}{0}{Default} credits for ending the round!",
+	"RoundStart": "[{Green}Shop{Default}] You received {Green}{0}{Default} credits for starting the round!"
+}

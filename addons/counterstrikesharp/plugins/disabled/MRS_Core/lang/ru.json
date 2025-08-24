@@ -1,0 +1,34 @@
+{
+    "chatPrefix": " {LightRed}[РЕПОРТ]◗ {Default} ",
+
+    "targetIsOut_Chat": "К сожалению, игрок вышел с сервера",
+    "targetIsOut_Hud": "К сожалению, игрок вышел с сервера",
+
+    "sentReport_Chat": "Вы {Lime}отправили {Default}репорт на {Grey}{TARGET_NAME} {Default}по причине: {Grey}{REASON}",
+    "sentReportMessage_Chat": "Вы {Lime}отправили {Default}репорт на {Grey}{TARGET_NAME}{Default}, сообщение: {Grey}{REASON}",
+    
+    "selectPlayerCustomReason_Chat": "Ошибка, необходимо выбрать игрока, что бы написать причину =(",
+    "selectPlayerCustomReason_Hud": "Ошибка, необходимо выбрать игрока, что бы написать причину =(",
+
+    "customReason_Chat": "Введите !reason {LightRed}*причина*{Default}. Пример: !reason {LightRed}попрошайка",
+    "customReason_Hud": "Введите !reason *причина*. Пример: !reason попрошайка",
+
+    "zeroPlayers_Chat": "К сожалению, нет доступных игроков",
+    "zeroPlayers_Hud": "К сожалению, нет доступных игроков",
+
+    "cooldown_Chat": "Ошибка, репорт можно будет отправить через {LightRed}{MIN}{Default} мин и {LightRed}{SEC}{Default} сек.",
+    "cooldown_Hud": "Ошибка, репорт можно будет отправить через {MIN} мин и {SEC} сек.",
+    
+    "canceledReport_Chat": "Вы {LightRed}отменили {Default}репорт на {Grey}{TARGET_NAME}",
+    "canceledReport_Hud": "Вы отменили репорт на {TARGET_NAME}",
+
+    "menuTitle_SelectPlayer": "[РЕПОРТ] Выбери игрока",
+    "menuTitle_SelectReason": "[РЕПОРТ] Выбери причину",
+    "menuTitle_SelectMessage": "[РЕПОРТ] Выбери сообщение",
+
+    "menuItem_Back": "вернуться назад",
+
+    "menuItem_Cancel": "отмена репорта",
+    "menuItem_CustomReason": "ввести свою причину",
+    "menuItem_SelectMessage": "сообщение из чата"
+}

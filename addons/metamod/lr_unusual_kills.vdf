@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"lr_unusual_kills"
+	"file"	"addons/lr_modules/lr_unusual_kills"
+}

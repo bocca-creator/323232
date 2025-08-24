@@ -1,0 +1,2 @@
+2025-01-17 09:30:22.915 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145
+2025-01-17 22:54:26.594 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'midnight' to '' for player with SteamID 76561199780108910

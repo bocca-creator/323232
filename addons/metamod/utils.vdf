@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"utils"
+	"file"	"addons/utils/utils"
+}

@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"esp_enabled"
+	{
+		"ru"	" {GREEN}[ESP]{DEFAULT} Вы успешно {GREEN}включили{DEFAULT} ESP"
+	}
+	"esp_disabled"
+	{
+		"ru"	" {RED}[ESP]{DEFAULT} Вы успешно {RED}выключили{DEFAULT} ESP"
+	}
+}

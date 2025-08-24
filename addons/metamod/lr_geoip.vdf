@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"lr_geoip"
+	"file"	"addons/lr_modules/lr_geoip"
+}

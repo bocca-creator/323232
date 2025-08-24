@@ -1,0 +1,5 @@
+//Put your map list here
+de_mirage
+de_dust2
+de_inferno
+cs_italy

@@ -1,0 +1,435 @@
+2025-01-23 09:30:16.074 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2025-01-23 09:30:16.134 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2025-01-23 09:30:16.142 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/TeleportFix.json
+2025-01-23 09:30:16.144 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2025-01-23 09:30:16.145 +03:00 [WARN] (cssharp:GameDataProvider) GameData Method "RunCommand" loaded a duplicate entry from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json.
+2025-01-23 09:30:16.145 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json
+2025-01-23 09:30:16.146 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 40 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2025-01-23 09:30:16.146 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2025-01-23 09:30:16.155 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2025-01-23 09:30:16.155 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2025-01-23 09:30:16.157 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2025-01-23 09:30:16.344 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ResetScore
+2025-01-23 09:30:16.451 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ResetScore
+2025-01-23 09:30:16.468 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MeowCheckCheats
+2025-01-23 09:30:16.496 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MeowCheckCheats
+2025-01-23 09:30:16.510 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Game-Manager-GoldKingZ
+2025-01-23 09:30:16.532 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Game Manager (Block/Hide Unnecessaries In Game)
+2025-01-23 09:30:16.549 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_Skins
+2025-01-23 09:30:16.550 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Skins
+2025-01-23 09:30:16.555 +03:00 [INFO] (cssharp:PluginContext) Loading plugin TeleportFix
+2025-01-23 09:30:16.567 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin HvH.gg - Teleport/Crasher Fix
+2025-01-23 09:30:16.573 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_MoneyDistributor
+2025-01-23 09:30:16.575 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Money Distributor
+2025-01-23 09:30:16.581 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WorldTextExpTop
+2025-01-23 09:30:16.836 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WorldTextExpTop
+2025-01-23 09:30:16.848 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WarnSystem
+2025-01-23 09:30:16.917 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WarnSystem
+2025-01-23 09:30:16.925 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AdminSessionLog
+2025-01-23 09:30:16.927 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AdminSessionLog
+2025-01-23 09:30:16.935 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ShowDamage
+2025-01-23 09:30:17.003 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ShowDamage by ABKAM
+2025-01-23 09:30:17.016 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ClearNickname
+2025-01-23 09:30:17.027 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ClearNickname
+2025-01-23 09:30:17.085 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DiscordUtilities
+2025-01-23 09:30:17.243 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Discord Utilities
+2025-01-23 09:30:17.256 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2025-01-23 09:30:17.257 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2025-01-23 09:30:17.264 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NoColdown
+2025-01-23 09:30:17.265 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NoColdown
+2025-01-23 09:30:17.272 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Core
+2025-01-23 09:30:17.416 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Core
+2025-01-23 09:30:17.430 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop
+2025-01-23 09:30:17.441 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Shop Core
+2025-01-23 09:30:17.453 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DisableLogs
+2025-01-23 09:30:17.456 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Disable shit logs
+2025-01-23 09:30:17.462 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifySent
+2025-01-23 09:30:17.464 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifySent
+2025-01-23 09:30:17.471 +03:00 [INFO] (cssharp:PluginContext) Loading plugin [RanksPoints] GeoIP
+2025-01-23 09:30:17.655 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [RanksPoints] GeoIP
+2025-01-23 09:30:17.686 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2025-01-23 09:30:17.874 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2025-01-23 09:30:17.892 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Telegram
+2025-01-23 09:30:17.896 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Telegram
+2025-01-23 09:30:17.911 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 09:30:17.926 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 09:30:17.942 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Advertisement
+2025-01-23 09:30:17.952 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Advertisement
+2025-01-23 09:30:17.960 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ESP
+2025-01-23 09:30:17.961 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Admin] ESP
+2025-01-23 09:30:17.969 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2025-01-23 09:30:17.991 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2025-01-23 09:30:18.002 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2025-01-23 09:30:18.025 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2025-01-23 09:30:18.040 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2025-01-23 09:30:18.047 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2025-01-23 09:30:18.055 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ServerStatus
+2025-01-23 09:30:18.061 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Server Status
+2025-01-23 09:30:18.068 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifyInGame
+2025-01-23 09:30:18.071 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifyInGame
+2025-01-23 09:30:18.083 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ChatRelay
+2025-01-23 09:30:18.092 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Chat Relay
+2025-01-23 09:30:18.122 +03:00 [INFO] (cssharp:PluginContext) Loading plugin vipConvert
+2025-01-23 09:30:18.126 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin vipConvert
+2025-01-23 09:30:18.137 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2025-01-23 09:30:18.145 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2025-01-23 09:30:18.197 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Discord
+2025-01-23 09:30:18.258 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Discord
+2025-01-23 09:30:22.488 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-23 09:30:22.489 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-23 09:30:22.524 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 09:30:22.533 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 09:30:25.017 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-23 09:30:25.018 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-23 09:30:25.031 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 09:30:25.034 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 11:38:08.599 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin MenuManager [Core]
+2025-01-23 11:38:08.600 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin MenuManager [Core]
+2025-01-23 11:38:08.600 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin MenuManager [Core]
+2025-01-23 11:38:08.615 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2025-01-23 11:38:08.621 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2025-01-23 11:38:08.851 +03:00 [INFO] (cssharp:PluginContext) Reloading plugin PlayerSettings [Core]
+2025-01-23 11:38:08.851 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin PlayerSettings [Core]
+2025-01-23 11:38:17.640 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2025-01-23 11:38:17.698 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2025-01-23 11:38:17.705 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/TeleportFix.json
+2025-01-23 11:38:17.707 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2025-01-23 11:38:17.708 +03:00 [WARN] (cssharp:GameDataProvider) GameData Method "RunCommand" loaded a duplicate entry from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json.
+2025-01-23 11:38:17.708 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json
+2025-01-23 11:38:17.710 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 40 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2025-01-23 11:38:17.710 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2025-01-23 11:38:17.720 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2025-01-23 11:38:17.720 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2025-01-23 11:38:17.723 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2025-01-23 11:38:17.907 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ResetScore
+2025-01-23 11:38:18.014 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ResetScore
+2025-01-23 11:38:18.033 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MeowCheckCheats
+2025-01-23 11:38:18.062 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MeowCheckCheats
+2025-01-23 11:38:18.075 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Game-Manager-GoldKingZ
+2025-01-23 11:38:18.098 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Game Manager (Block/Hide Unnecessaries In Game)
+2025-01-23 11:38:18.105 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_Skins
+2025-01-23 11:38:18.106 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Skins
+2025-01-23 11:38:18.112 +03:00 [INFO] (cssharp:PluginContext) Loading plugin TeleportFix
+2025-01-23 11:38:18.123 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin HvH.gg - Teleport/Crasher Fix
+2025-01-23 11:38:18.131 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_MoneyDistributor
+2025-01-23 11:38:18.133 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Money Distributor
+2025-01-23 11:38:18.139 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WorldTextExpTop
+2025-01-23 11:38:18.399 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WorldTextExpTop
+2025-01-23 11:38:18.412 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WarnSystem
+2025-01-23 11:38:18.482 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WarnSystem
+2025-01-23 11:38:18.492 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AdminSessionLog
+2025-01-23 11:38:18.494 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AdminSessionLog
+2025-01-23 11:38:18.500 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ShowDamage
+2025-01-23 11:38:18.580 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ShowDamage by ABKAM
+2025-01-23 11:38:18.595 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ClearNickname
+2025-01-23 11:38:18.608 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ClearNickname
+2025-01-23 11:38:18.665 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DiscordUtilities
+2025-01-23 11:38:18.813 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Discord Utilities
+2025-01-23 11:38:18.826 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2025-01-23 11:38:18.827 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2025-01-23 11:38:18.833 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NoColdown
+2025-01-23 11:38:18.835 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NoColdown
+2025-01-23 11:38:18.842 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Core
+2025-01-23 11:38:18.988 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Core
+2025-01-23 11:38:18.999 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop
+2025-01-23 11:38:19.009 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Shop Core
+2025-01-23 11:38:19.022 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DisableLogs
+2025-01-23 11:38:19.026 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Disable shit logs
+2025-01-23 11:38:19.032 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifySent
+2025-01-23 11:38:19.035 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifySent
+2025-01-23 11:38:19.044 +03:00 [INFO] (cssharp:PluginContext) Loading plugin [RanksPoints] GeoIP
+2025-01-23 11:38:19.259 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [RanksPoints] GeoIP
+2025-01-23 11:38:19.282 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2025-01-23 11:38:19.467 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2025-01-23 11:38:19.487 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Telegram
+2025-01-23 11:38:19.493 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Telegram
+2025-01-23 11:38:19.509 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 11:38:19.542 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 11:38:19.552 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Advertisement
+2025-01-23 11:38:19.560 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Advertisement
+2025-01-23 11:38:19.569 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ESP
+2025-01-23 11:38:19.570 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Admin] ESP
+2025-01-23 11:38:19.578 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2025-01-23 11:38:19.601 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2025-01-23 11:38:19.612 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2025-01-23 11:38:19.638 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2025-01-23 11:38:19.652 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2025-01-23 11:38:19.660 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2025-01-23 11:38:19.668 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ServerStatus
+2025-01-23 11:38:19.677 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Server Status
+2025-01-23 11:38:19.687 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifyInGame
+2025-01-23 11:38:19.690 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifyInGame
+2025-01-23 11:38:19.706 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ChatRelay
+2025-01-23 11:38:19.734 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Chat Relay
+2025-01-23 11:38:19.753 +03:00 [INFO] (cssharp:PluginContext) Loading plugin vipConvert
+2025-01-23 11:38:19.756 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin vipConvert
+2025-01-23 11:38:19.773 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2025-01-23 11:38:19.783 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2025-01-23 11:38:19.822 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Discord
+2025-01-23 11:38:19.882 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Discord
+2025-01-23 11:38:24.104 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-23 11:38:24.106 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-23 11:38:24.131 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 11:38:24.140 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 11:38:26.761 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-23 11:38:26.761 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-23 11:38:26.772 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 11:38:26.774 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 11:53:57.985 +03:00 [INFO] (cssharp:PluginContext) Plugin HvH.gg - Teleport/Crasher Fix has been deleted, unloading...
+2025-01-23 11:53:57.987 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin HvH.gg - Teleport/Crasher Fix
+2025-01-23 11:53:57.989 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin HvH.gg - Teleport/Crasher Fix
+2025-01-23 11:55:10.533 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2025-01-23 11:55:10.591 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2025-01-23 11:55:10.597 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/TeleportFix.json
+2025-01-23 11:55:10.599 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2025-01-23 11:55:10.600 +03:00 [WARN] (cssharp:GameDataProvider) GameData Method "RunCommand" loaded a duplicate entry from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json.
+2025-01-23 11:55:10.600 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json
+2025-01-23 11:55:10.601 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 40 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2025-01-23 11:55:10.601 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2025-01-23 11:55:10.609 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2025-01-23 11:55:10.609 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2025-01-23 11:55:10.611 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2025-01-23 11:55:10.779 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ResetScore
+2025-01-23 11:55:10.882 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ResetScore
+2025-01-23 11:55:10.899 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MeowCheckCheats
+2025-01-23 11:55:10.925 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MeowCheckCheats
+2025-01-23 11:55:10.938 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Game-Manager-GoldKingZ
+2025-01-23 11:55:10.958 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Game Manager (Block/Hide Unnecessaries In Game)
+2025-01-23 11:55:10.964 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_Skins
+2025-01-23 11:55:10.965 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Skins
+2025-01-23 11:55:10.970 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_MoneyDistributor
+2025-01-23 11:55:10.972 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Money Distributor
+2025-01-23 11:55:10.977 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WorldTextExpTop
+2025-01-23 11:55:11.252 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WorldTextExpTop
+2025-01-23 11:55:11.264 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WarnSystem
+2025-01-23 11:55:11.333 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WarnSystem
+2025-01-23 11:55:11.341 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AdminSessionLog
+2025-01-23 11:55:11.343 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AdminSessionLog
+2025-01-23 11:55:11.350 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ShowDamage
+2025-01-23 11:55:11.416 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ShowDamage by ABKAM
+2025-01-23 11:55:11.429 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ClearNickname
+2025-01-23 11:55:11.441 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ClearNickname
+2025-01-23 11:55:11.500 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DiscordUtilities
+2025-01-23 11:55:11.652 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Discord Utilities
+2025-01-23 11:55:11.664 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2025-01-23 11:55:11.666 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2025-01-23 11:55:11.673 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NoColdown
+2025-01-23 11:55:11.675 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NoColdown
+2025-01-23 11:55:11.683 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Core
+2025-01-23 11:55:11.838 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Core
+2025-01-23 11:55:11.850 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop
+2025-01-23 11:55:11.861 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Shop Core
+2025-01-23 11:55:11.874 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DisableLogs
+2025-01-23 11:55:11.877 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Disable shit logs
+2025-01-23 11:55:11.885 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifySent
+2025-01-23 11:55:11.887 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifySent
+2025-01-23 11:55:11.895 +03:00 [INFO] (cssharp:PluginContext) Loading plugin [RanksPoints] GeoIP
+2025-01-23 11:55:12.100 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [RanksPoints] GeoIP
+2025-01-23 11:55:12.134 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2025-01-23 11:55:12.339 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2025-01-23 11:55:12.359 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BansSystem
+2025-01-23 11:55:12.793 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BlockDB
+2025-01-23 11:55:12.832 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Telegram
+2025-01-23 11:55:12.837 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Telegram
+2025-01-23 11:55:12.853 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 11:55:12.870 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 11:55:12.880 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Advertisement
+2025-01-23 11:55:12.890 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Advertisement
+2025-01-23 11:55:12.900 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ESP
+2025-01-23 11:55:12.900 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Admin] ESP
+2025-01-23 11:55:12.909 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2025-01-23 11:55:12.932 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2025-01-23 11:55:12.951 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2025-01-23 11:55:12.973 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2025-01-23 11:55:12.989 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2025-01-23 11:55:12.997 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2025-01-23 11:55:13.007 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ServerStatus
+2025-01-23 11:55:13.014 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Server Status
+2025-01-23 11:55:13.023 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifyInGame
+2025-01-23 11:55:13.026 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifyInGame
+2025-01-23 11:55:13.037 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ChatRelay
+2025-01-23 11:55:13.045 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Chat Relay
+2025-01-23 11:55:13.062 +03:00 [INFO] (cssharp:PluginContext) Loading plugin vipConvert
+2025-01-23 11:55:13.065 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin vipConvert
+2025-01-23 11:55:13.075 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2025-01-23 11:55:13.082 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2025-01-23 11:55:13.135 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Discord
+2025-01-23 11:55:13.203 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Discord
+2025-01-23 11:55:17.438 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-23 11:55:17.440 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-23 11:55:17.468 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 11:55:17.477 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 11:55:20.092 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-23 11:55:20.093 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-23 11:55:20.102 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 11:55:20.103 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 11:56:06.667 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2025-01-23 11:56:06.726 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2025-01-23 11:56:06.732 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/TeleportFix.json
+2025-01-23 11:56:06.734 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2025-01-23 11:56:06.735 +03:00 [WARN] (cssharp:GameDataProvider) GameData Method "RunCommand" loaded a duplicate entry from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json.
+2025-01-23 11:56:06.735 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json
+2025-01-23 11:56:06.736 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 40 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2025-01-23 11:56:06.736 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2025-01-23 11:56:06.743 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2025-01-23 11:56:06.743 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2025-01-23 11:56:06.745 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2025-01-23 11:56:06.907 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ResetScore
+2025-01-23 11:56:07.005 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ResetScore
+2025-01-23 11:56:07.023 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MeowCheckCheats
+2025-01-23 11:56:07.050 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MeowCheckCheats
+2025-01-23 11:56:07.064 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Game-Manager-GoldKingZ
+2025-01-23 11:56:07.085 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Game Manager (Block/Hide Unnecessaries In Game)
+2025-01-23 11:56:07.092 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_Skins
+2025-01-23 11:56:07.092 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Skins
+2025-01-23 11:56:07.098 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_MoneyDistributor
+2025-01-23 11:56:07.099 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Money Distributor
+2025-01-23 11:56:07.105 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WorldTextExpTop
+2025-01-23 11:56:07.349 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WorldTextExpTop
+2025-01-23 11:56:07.361 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WarnSystem
+2025-01-23 11:56:07.427 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WarnSystem
+2025-01-23 11:56:07.435 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AdminSessionLog
+2025-01-23 11:56:07.437 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AdminSessionLog
+2025-01-23 11:56:07.443 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ShowDamage
+2025-01-23 11:56:07.506 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ShowDamage by ABKAM
+2025-01-23 11:56:07.519 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ClearNickname
+2025-01-23 11:56:07.530 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ClearNickname
+2025-01-23 11:56:07.587 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DiscordUtilities
+2025-01-23 11:56:07.734 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Discord Utilities
+2025-01-23 11:56:07.746 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2025-01-23 11:56:07.747 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2025-01-23 11:56:07.753 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NoColdown
+2025-01-23 11:56:07.755 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NoColdown
+2025-01-23 11:56:07.762 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Core
+2025-01-23 11:56:07.908 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Core
+2025-01-23 11:56:07.918 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop
+2025-01-23 11:56:07.928 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Shop Core
+2025-01-23 11:56:07.940 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DisableLogs
+2025-01-23 11:56:07.943 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Disable shit logs
+2025-01-23 11:56:07.951 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifySent
+2025-01-23 11:56:07.954 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifySent
+2025-01-23 11:56:07.961 +03:00 [INFO] (cssharp:PluginContext) Loading plugin [RanksPoints] GeoIP
+2025-01-23 11:56:08.153 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [RanksPoints] GeoIP
+2025-01-23 11:56:08.184 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2025-01-23 11:56:08.369 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2025-01-23 11:56:08.388 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BansSystem
+2025-01-23 11:56:08.801 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BlockDB
+2025-01-23 11:56:08.853 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Telegram
+2025-01-23 11:56:08.857 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Telegram
+2025-01-23 11:56:08.872 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 11:56:08.888 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 11:56:08.896 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Advertisement
+2025-01-23 11:56:08.906 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Advertisement
+2025-01-23 11:56:08.915 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ESP
+2025-01-23 11:56:08.915 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Admin] ESP
+2025-01-23 11:56:08.924 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2025-01-23 11:56:08.946 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2025-01-23 11:56:08.958 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2025-01-23 11:56:08.980 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2025-01-23 11:56:08.994 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2025-01-23 11:56:09.001 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2025-01-23 11:56:09.023 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ServerStatus
+2025-01-23 11:56:09.030 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Server Status
+2025-01-23 11:56:09.039 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifyInGame
+2025-01-23 11:56:09.042 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifyInGame
+2025-01-23 11:56:09.052 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ChatRelay
+2025-01-23 11:56:09.059 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Chat Relay
+2025-01-23 11:56:09.075 +03:00 [INFO] (cssharp:PluginContext) Loading plugin vipConvert
+2025-01-23 11:56:09.078 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin vipConvert
+2025-01-23 11:56:09.088 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2025-01-23 11:56:09.095 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2025-01-23 11:56:09.136 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Discord
+2025-01-23 11:56:09.201 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Discord
+2025-01-23 11:56:13.438 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-23 11:56:13.440 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-23 11:56:13.465 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 11:56:13.473 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 11:56:15.806 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-23 11:56:15.807 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-23 11:56:15.822 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 11:56:15.827 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 12:00:25.325 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2025-01-23 12:00:25.387 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2025-01-23 12:00:25.394 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/TeleportFix.json
+2025-01-23 12:00:25.396 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2025-01-23 12:00:25.396 +03:00 [WARN] (cssharp:GameDataProvider) GameData Method "RunCommand" loaded a duplicate entry from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json.
+2025-01-23 12:00:25.396 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json
+2025-01-23 12:00:25.398 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 40 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2025-01-23 12:00:25.398 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2025-01-23 12:00:25.405 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2025-01-23 12:00:25.406 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2025-01-23 12:00:25.407 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2025-01-23 12:00:25.579 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ResetScore
+2025-01-23 12:00:25.683 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ResetScore
+2025-01-23 12:00:25.701 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MeowCheckCheats
+2025-01-23 12:00:25.730 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MeowCheckCheats
+2025-01-23 12:00:25.743 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Game-Manager-GoldKingZ
+2025-01-23 12:00:25.764 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Game Manager (Block/Hide Unnecessaries In Game)
+2025-01-23 12:00:25.770 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_Skins
+2025-01-23 12:00:25.771 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Skins
+2025-01-23 12:00:25.776 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_MoneyDistributor
+2025-01-23 12:00:25.778 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Money Distributor
+2025-01-23 12:00:25.784 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WorldTextExpTop
+2025-01-23 12:00:26.045 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WorldTextExpTop
+2025-01-23 12:00:26.058 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WarnSystem
+2025-01-23 12:00:26.131 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WarnSystem
+2025-01-23 12:00:26.139 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AdminSessionLog
+2025-01-23 12:00:26.142 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AdminSessionLog
+2025-01-23 12:00:26.149 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ShowDamage
+2025-01-23 12:00:26.224 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ShowDamage by ABKAM
+2025-01-23 12:00:26.237 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ClearNickname
+2025-01-23 12:00:26.248 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ClearNickname
+2025-01-23 12:00:26.305 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DiscordUtilities
+2025-01-23 12:00:26.470 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Discord Utilities
+2025-01-23 12:00:26.483 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2025-01-23 12:00:26.485 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2025-01-23 12:00:26.492 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NoColdown
+2025-01-23 12:00:26.494 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NoColdown
+2025-01-23 12:00:26.502 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Core
+2025-01-23 12:00:26.659 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Core
+2025-01-23 12:00:26.669 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop
+2025-01-23 12:00:26.679 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Shop Core
+2025-01-23 12:00:26.691 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DisableLogs
+2025-01-23 12:00:26.695 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Disable shit logs
+2025-01-23 12:00:26.701 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifySent
+2025-01-23 12:00:26.703 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifySent
+2025-01-23 12:00:26.710 +03:00 [INFO] (cssharp:PluginContext) Loading plugin [RanksPoints] GeoIP
+2025-01-23 12:00:26.907 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [RanksPoints] GeoIP
+2025-01-23 12:00:26.937 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2025-01-23 12:00:27.127 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2025-01-23 12:00:27.145 +03:00 [INFO] (cssharp:PluginContext) Loading plugin BansSystem
+2025-01-23 12:00:27.578 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin BlockDB
+2025-01-23 12:00:27.619 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Telegram
+2025-01-23 12:00:27.623 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Telegram
+2025-01-23 12:00:27.638 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 12:00:27.653 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 12:00:27.661 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Advertisement
+2025-01-23 12:00:27.670 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Advertisement
+2025-01-23 12:00:27.678 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ESP
+2025-01-23 12:00:27.678 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Admin] ESP
+2025-01-23 12:00:27.687 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2025-01-23 12:00:27.709 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2025-01-23 12:00:27.726 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2025-01-23 12:00:27.749 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2025-01-23 12:00:27.763 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2025-01-23 12:00:27.772 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2025-01-23 12:00:27.787 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ServerStatus
+2025-01-23 12:00:27.796 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Server Status
+2025-01-23 12:00:27.806 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifyInGame
+2025-01-23 12:00:27.808 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifyInGame
+2025-01-23 12:00:27.817 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ChatRelay
+2025-01-23 12:00:27.824 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Chat Relay
+2025-01-23 12:00:27.840 +03:00 [INFO] (cssharp:PluginContext) Loading plugin vipConvert
+2025-01-23 12:00:27.843 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin vipConvert
+2025-01-23 12:00:27.853 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2025-01-23 12:00:27.859 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2025-01-23 12:00:27.909 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Discord
+2025-01-23 12:00:27.968 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Discord
+2025-01-23 12:00:32.215 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-23 12:00:32.218 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-23 12:00:32.249 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 12:00:32.260 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-23 12:00:35.166 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-23 12:00:35.167 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-23 12:00:35.188 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-23 12:00:35.195 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote

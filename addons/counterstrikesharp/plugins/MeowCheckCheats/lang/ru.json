@@ -1,0 +1,61 @@
+{
+    "chatPrefix": " {LightRed}[ПРОВЕРКА]▸{Default} ",
+
+    "repeatContact": "Введите {LightRed}!contact ваш_контакт {Default}!",
+    "repeatContactSuccess": "Вы успешно напомнили о контакте =)",
+    "repeatContactNotSuccess": "Ошибка, жертва уже указала контакт {Blue}{CONTACT} ({CONTACT_TYPE})",
+
+    "playerSuccessfulCheck": "Вы успешно прошли проверку, приятной игры =)",
+    "adminSuccessfulCheck": "Вы успешно завершили проверку =)",
+    
+    "adminCalledOnCheck": "Администратор {LightRed}{ADMIN_NAME}{Default} вызвал игрока {Grey}{TARGET_NAME} {Default}на проверку",
+    "targetDisconnected": "Игрок {Grey}{TARGET_NAME} {DEFAULT}вышел с сервера и был автоматически забанен, проверка завершена",
+    "targetNullContact": "Игрок не смог указать контакт и был автоматически забанен, проверка завершена",
+    
+    "successContactTarget": "Вы успешно указали контакт {Blue}'{CONTACT}'{Default}, ожидайте звонка от администратора",
+    "successContactAdmin": "Игрок указал контакт: {Blue}{CONTACT} ({CONTACT_TYPE})",
+    "nullArgsContact": "Ошибка, вы не указали контакт. \nВведите !contact {LightRed}ваш_контакт {Default}(пример: !contact Meow)",
+    
+    "switchTeamUnAvailableInCheck": "Ошибка, вы не можете поменять команду т.к вы находитесь на проверке =(", // 1.4.0
+
+    "listTargetsNull": "Ошибка, нет доступного игрока/игроков", // 1.1.0
+    
+    "contactMenuTitle": "Выберите месседжер", // 1.5.0
+    "mainMenuTitle": "Выбери необходимого игрока",
+
+    "targetNull": "Ошибка, выбранный игрок отсутствует =(",
+    "playerOnCheck": "Ошибка, игрок уже находится на проверке", // 1.4.5
+
+    "managementMenuTitle": "Выбери действие с {TARGET_NAME}",
+    "managementMenuItem1": "Завершить проверку",
+    "managementMenuItem2": "Напомнить о !contact",
+    "managementMenuItem3": "Переместить в спеки", // 1.2.0
+    "managementMenuItem4": "Воспроизвести звук", // 1.2.0
+    "managementMenuItem5": "Добавить +{TIME} сек", // 1.4.0
+
+    "moveSpecSuccess": "Вы переместили жертву в наблюдатели", // 1.2.0
+    "moveSpecNotSuccess": "Ошибка, жертва уже итак в наблюдателях", // 1.2.0
+    "playSoundSuccess": "Жертве воспроизведен звук", // 1.2.0
+    "addTimeSuccess": "Вы успешно добавили +{TIME} секунд для ввода контакта\nОсталось - {MIN} мин {SEC} сек", // 1.4.0
+
+    "verdictMenuTitle": "Какой вердикт для {TARGET_NAME} ?",
+    "verdictMenuItem1": "Читер",
+    "verdictMenuItem2": "Чистый", // 1.1.0
+    "verdictMenuItem3": "Отказ от проверки",
+
+    "textForPlayer": "Введите свой контакт при помощи <b color='#ff2b2b'>!contact ваш_контакт</b><br><br>У вас осталось {MIN} мин {SEC} сек<br>Для предоставления контакта",
+    
+    "textForAdmin": "У жертвы осталось {MIN} мин {SEC} сек",
+
+    "textIsChecking": "{LightRed}[НА ПРОВЕРКЕ]",
+
+    "actionTargetMenuTitle": "Выберите действие ({TARGET_NAME})", // 1.4.6
+    "actionTargetMenuItem1": "Статистика", // 1.4.6
+    "actionTargetMenuItem2": "Проверить", // 1.4.6
+
+    "menuItemBack": "Вернуться назад", // 1.4.6
+
+    "statsShowInConsole": "Статистика отправлена в консоль", // 1.4.6
+    "statsFormat": "{DATEEND} | Вердикт: {LightRed}{VERDICT}{Default} | Контакт {SUSPECT_CONTACT}", // 1.4.6
+    "noStatsFound": "Статистика отсутствует" // 1.4.9
+}

@@ -1,0 +1,1 @@
+2025-01-16 09:30:16.941 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145

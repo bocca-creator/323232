@@ -1,0 +1,11 @@
+2025-08-17 20:39:53.631 +03:00 [WARN] plugin:WeaponPaints Plugin is outdated! Check https://github.com/Nereziel/cs2-WeaponPaints
+2025-08-17 20:50:47.834 +03:00 [WARN] plugin:WeaponPaints Plugin is outdated! Check https://github.com/Nereziel/cs2-WeaponPaints
+2025-08-17 20:55:23.147 +03:00 [WARN] plugin:WeaponPaints Plugin is outdated! Check https://github.com/Nereziel/cs2-WeaponPaints
+2025-08-17 21:02:59.433 +03:00 [WARN] plugin:WeaponPaints Plugin is outdated! Check https://github.com/Nereziel/cs2-WeaponPaints
+2025-08-17 21:08:12.856 +03:00 [WARN] plugin:WeaponPaints Plugin is outdated! Check https://github.com/Nereziel/cs2-WeaponPaints
+2025-08-17 21:11:24.889 +03:00 [WARN] plugin:WeaponPaints Plugin is outdated! Check https://github.com/Nereziel/cs2-WeaponPaints
+2025-08-17 21:13:10.737 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Access denied for user 'u36806_lrweb'@'46.174.55.231' (using password: YES)
+2025-08-17 21:15:53.842 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Access denied for user 'u36806_lrweb'@'46.174.55.231' (using password: YES)
+2025-08-17 21:23:26.585 +03:00 [EROR] plugin:WeaponPaints You need to setup Database credentials in "configs/plugins/WeaponPaints/WeaponPaints.json"!
+2025-08-17 21:26:54.928 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2025-08-17 21:29:18.801 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date

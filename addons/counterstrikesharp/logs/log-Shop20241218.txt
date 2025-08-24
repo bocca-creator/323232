@@ -1,0 +1,1 @@
+2024-12-18 18:51:09.024 +03:00 [EROR] plugin:Shop Core {OnClientAuthorized} Failed get info in database | Connect Timeout expired.

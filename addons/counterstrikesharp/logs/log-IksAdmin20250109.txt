@@ -1,0 +1,12 @@
+2025-01-09 09:30:19.661 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2025-01-09 09:30:19.667 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 4
+2025-01-09 09:30:19.667 +03:00 [INFO] plugin:IksAdmin admins: 4
+2025-01-09 11:58:28.981 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2025-01-09 11:58:28.987 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 4
+2025-01-09 11:58:28.987 +03:00 [INFO] plugin:IksAdmin admins: 4
+2025-01-09 11:59:53.641 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2025-01-09 11:59:53.646 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 4
+2025-01-09 11:59:53.646 +03:00 [INFO] plugin:IksAdmin admins: 4
+2025-01-09 12:06:19.246 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2025-01-09 12:06:19.252 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 4
+2025-01-09 12:06:19.252 +03:00 [INFO] plugin:IksAdmin admins: 4

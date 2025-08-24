@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"vip_healthshot"
+	"file"	"addons/vip_modules/vip_healthshot"
+}

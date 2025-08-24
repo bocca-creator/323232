@@ -1,0 +1,58 @@
+{
+    "chatPrefix": " {LightRed}[MeowCheckCheats]{Default} ",
+
+    "repeatContact": "Введіть {LightRed}!контакт ваш_дискорд {Default}!",
+    "repeatContactSuccess": "Ви успішно нагадали про дискорд =)",
+    "repeatContactNotSuccess": "Помилка, жертва вже вказала дискорд {Blue}{DISCORD}",
+
+    "playerSuccessfulCheck": "Ви успішно пройшли перевірку, приємної гри =)",
+    "adminSuccessfulCheck": "Ви успішно завершили перевірку =)",
+    
+    "adminCalledOnCheck": "Адміністратор {LightRed}{ADMIN_NAME}{Default} викликав гравця {Grey}{TARGET_NAME} {Default}на перевірку",
+    "targetDisconnected": "Гравець {Grey}{TARGET_NAME} {DEFAULT}вивівся з сервера і був автоматично забанений, перевірка завершена",
+    "targetNullDiscord": "Гравець не зміг вказати дискорд і був автоматично забанений, перевірка завершена",
+    
+    "successContactTarget": "Ви успішно вказали дискорд, очікуйте дзвінка від адміністратора",
+    "successContactAdmin": "Гравець вказав дискорд: {Blue}{DISCORD}",
+    "nullArgsContact": "Помилка, ви не вказали дискорд. \nВведіть !контакт {LightRed}ваш_дискорд {Default}(приклад: !контакт CYBERC4T)",
+    
+    "switchTeamUnAvailableInCheck": "Помилка, ви не можете поміняти команду, оскільки ви находитесь на перевірці =(", // 1.4.0
+
+    "listTargetsNull": "Помилка, немає доступного гравця/гравців", // 1.1.0
+    "mainMenuTitle": "Виберіть необхідного гравця",
+
+    "targetNull": "Помилка, вибраний гравець відсутній =(",
+    "playerOnCheck": "Помилка, гравець вже знаходиться на перевірці", // 1.4.5
+
+    "managementMenuTitle": "Виберіть дію з {TARGET_NAME}",
+    "managementMenuItem1": "Завершити перевірку",
+    "managementMenuItem2": "Нагадати про !контакт",
+    "managementMenuItem3": "Перемістити в спеки", // 1.2.0
+    "managementMenuItem4": "Воспроизвести звук", // 1.2.0
+    "managementMenuItem5": "Додати +{TIME} сек", // 1.4.0
+
+    "moveSpecSuccess": "Ви перемістили жертву в спостерігачі", // 1.2.0
+    "moveSpecNotSuccess": "Помилка, жертва вже знаходиться в спостерігачах", // 1.2.0
+    "playSoundSuccess": "Жертві воспроизведено звук", // 1.2.0
+    "addTimeSuccess": "Ви успішно додали +{TIME} секунд для вводу дискорда\nЗалишилось - {MIN} хв {SEC} сек", // 1.4.0
+
+    "verdictMenuTitle": "Який вердикт для {TARGET_NAME} ?",
+    "verdictMenuItem1": "Читер",
+    "verdictMenuItem2": "Чистий", // 1.1.0
+    "verdictMenuItem3": "Відмова від перевірки",
+
+    "textForPlayer": "Введіть свій дискорд за допомогою <b color='#ff2b2b'>!контакт ваш_дискорд</b><br><br>У вас залишилось {MIN} хв {SEC} сек<br>Для надання дискорда",
+    
+    "textForAdmin": "У жертви залишилось {MIN} хв {SEC} сек",
+
+    "textIsChecking": "{LightRed}[НА ПЕРЕВІРЦІ]",
+
+    "actionTargetMenuTitle": "Виберіть дію ({TARGET_NAME})", // 1.4.6
+    "actionTargetMenuItem1": "Статистика", // 1.4.6
+    "actionTargetMenuItem2": "Перевірити", // 1.4.6
+
+    "menuItemBack": "Повернутися назад", // 1.4.6
+
+    "statsShowInConsole": "Статистика надіслана в консоль", // 1.4.6
+    "statsFormat": "{DATEEND} | Вирок: {LightRed}{VERDICT}{Default} | Дискорд {SUSPECT_DISCORD}" // 1.4.6
+}

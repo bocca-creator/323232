@@ -1,0 +1,3 @@
+2025-01-01 09:30:14.291 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145
+2025-01-01 20:56:19.093 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'Neverlose1337' to '1337' for player with SteamID 76561199814364405
+2025-01-01 23:58:50.987 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'HoneyZ #GGDROP' to 'HoneyZ #' for player with SteamID 76561199813979678

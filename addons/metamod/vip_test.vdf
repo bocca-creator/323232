@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"vip_test"
+	"file"	"addons/vip_modules/vip_test"
+}

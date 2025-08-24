@@ -1,0 +1,3 @@
+2024-12-30 09:30:17.712 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145
+2024-12-30 09:44:56.275 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'HvH | NixWare ^-^' to 'HvH |  ^-^' for player with SteamID 76561199792437286
+2024-12-30 23:55:08.342 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145

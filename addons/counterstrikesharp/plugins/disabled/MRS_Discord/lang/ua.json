@@ -1,0 +1,4 @@
+{
+    "adminTakeReport": "{LightRed}[ЗВІТ]◗ {Default}Адміністратор {LightRed}{DISPLAY_NAME}{Default} взявся за ваш звіт {Red}❤️",
+    "adminCloseReport": "{LightRed}[ЗВІТ]◗ {Default}Адміністратор {LightRed}{DISPLAY_NAME}{Default} закрив ваш звіт на {Grey}{TARGET_NAME}{Default}. Вердикт: {Red}{VERDICT}"
+}

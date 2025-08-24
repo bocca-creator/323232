@@ -1,0 +1,6 @@
+2024-12-29 06:09:26.218 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'nixware user' to 'user' for player with SteamID 76561199807645277
+2024-12-29 08:26:01.013 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'nixware user' to 'user' for player with SteamID 76561199807645277
+2024-12-29 09:30:15.935 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145
+2024-12-29 09:46:58.651 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'nixware user' to 'user' for player with SteamID 76561199807645277
+2024-12-29 10:24:28.441 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'Aimware user' to 'user' for player with SteamID 76561199812981722
+2024-12-29 14:28:24.060 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'Aimware user' to 'user' for player with SteamID 76561199812981722

@@ -1,0 +1,123 @@
+{
+    "serverID": 1,
+    "dbSettings": {
+        "host": "46.174.50.7",
+        "database": "u36806_reports",
+        "user": "u36806_reports",
+        "password": "282871bdbd"
+    },
+    "showStatsIn": "console",
+    "menuType": "selectable",
+    "accessFlag": "@css/ban",
+    "immunityFlag": "@css/root",
+    "messengersForContact": [
+        "Discord",
+        "Telegram",
+        "ICQ"
+    ],
+    "timeOnContact": 120,
+    "addTimeOnContact": 30,
+    "soundPathBeginningCheck": "sounds/buttons/blip2",
+    "autoBanAfterLeave": true,
+    "autoBanIfNullContact": true,
+    "autoAdminSpec": true,
+    "showTimerClanTag": true,
+    "blockJoinTeam": true,
+    "banTimeBehindCheats": 0,
+    "banTimeBehindRejection": 1440,
+    "banReasonBehindCheats": "Использование читов",
+    "banReasonBehindRejection": "Отказ от проверки",
+    "banReasonBehindRejectionNullContact": "Отказ от проверки (не введен дискорд)",
+    "banReasonBehindRejectionDisconnect": "Отказ от проверки (выход)",
+    "cmdBan": "css_rban {TARGET_STEAMID} - {ADMIN_STEAMID} {TIME} {REASON} 0 {TARGET_NAME}",
+    "visibleItemMenuManagement": {
+        "notifyContact": true,
+        "movingSpec": true,
+        "playSound": true,
+        "addTime": true
+    },
+    "iksAdmin": true,
+    "iksAddOption": {
+        "state": true,
+        "optionName": "Проверить на читы",
+        "accessFlag": "b",
+        "location": "ManagePlayers"
+    },
+    "discordLogs": {
+        "webHook": "https://discord.com/api/webhooks/1281025194403827783/jwKwYGzOI1WKfhtUX4QTrCmRRHWjzekd9QHm_fL37JfrF3WNBws4u8nr2AEmFMAXcV0B",
+        "webHookName": "Живой лог проверки",
+        "webhookAvatarUrl": "",
+        "valueHour": 0,
+        "dateTimeFormat": "dd.MM.yyyy HH:mm:ss",
+        "embedStartCheck": {
+            "state": true,
+            "title": "[Начало проверки] ЖЕНСКАЯ ТУСА 21+\nㅤ",
+            "field1": {
+                "name": "👮 Администратор",
+                "value": "```{ADMIN_NAME}```",
+                "inline": true
+            },
+            "field2": {
+                "name": "👤 Жертва",
+                "value": "```{TARGET_NAME}```", // Для вывода SteamID64 - {TARGET_STEAMID}
+                "inline": true
+            },
+            "field3": {
+                "name": "🕜 Дата и время начала проверки",
+                "value": "```{DATETIME}```",
+                "inline": false
+            },
+            "color": [119, 221, 119]
+        },
+        "embedSendContact": {
+            "state": true,
+            "title": "[Ввод контакта] ЖЕНСКАЯ ТУСА 21+\nㅤ", // Для вывода hostname - {HOSTNAME}
+            "field1": {
+                "name": "👮 Администратор",
+                "value": "```{ADMIN_NAME}```", // Для вывода SteamID64 - {ADMIN_STEAMID}
+                "inline": true
+            },
+            "field2": {
+                "name": "👤 Жертва",
+                "value": "```{TARGET_NAME}```", // Для вывода SteamID64 - {TARGET_STEAMID}
+                "inline": true
+            },
+            "field3": {
+                "name": "🔗 Жертва указала контакт",
+                "value": "```{CONTACT} ({CONTACT_TYPE})```",
+                "inline": false
+            },
+            "color": [0, 0, 0]
+        },
+        "embedEndCheck": {
+            "state": true,
+            "title": "[Окончание проверки] ЖЕНСКАЯ ТУСА 21+\nㅤ", // Для вывода hostname - {HOSTNAME}
+            "field1": {
+                "name": "👮 Администратор",
+                "value": "```{ADMIN_NAME}```", // Для вывода SteamID64 - {ADMIN_STEAMID}
+                "inline": true
+            },
+            "field2": {
+                "name": "👤 Жертва",
+                "value": "```{TARGET_NAME}```", // Для вывода SteamID64 - {TARGET_STEAMID}
+                "inline": true
+            },
+            "field3": {
+                "textResultCheater": "Читер",
+                "textResultClean": "Чистый",
+                "textResultRejection": "Отказ от проверки",
+                "textResultDisconnectNullContact": "Отказ от проверки (не указал контакт)",
+                "textResultRejectionDisconnect": "Отказ от проверки (выход)", // [1.4.5]
+                "name": "📋 Результат",
+                "value": "```{RESULT}```",
+                "inline": false
+            },
+            "field4": {
+                "name": "🕜 Дата и время окончания проверки",
+                "value": "```{DATETIME}```",
+                "inline": false
+            },
+            "color": [255, 36, 0]
+        }
+    }
+}

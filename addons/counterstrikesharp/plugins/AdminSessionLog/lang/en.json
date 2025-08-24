@@ -1,0 +1,20 @@
+{
+	"asl.TitleConnect": "Administrator has connected to the server",
+	"asl.TitleDisconnect": "The administrator has disconnected from the server",
+	"asl.SessionLength" : "Session Duration",
+	"asl.Administrator" : "Administrator",
+	"asl.AdministratorDescription": "[**{0}**](https://steamcommunity.com/profiles/{1})", // {0} - administrator nickname {1} - admin's steamid
+	"asl.Server" : "Server: {0}", // {0} - server name
+	"asl.EmbedColorConnect": "#00FF00", // green
+	"asl.EmbedColorDisconnect": "#FF2400", // red
+    "asl.Hours.One": "hour",
+    "asl.Hours.Few": "hours",
+    "asl.Hours.Many": "hours",
+    "asl.Minutes.One": "minute",
+    "asl.Minutes.Few": "minutes",
+    "asl.Minutes.Many": "minutes",
+    "asl.Seconds.One": "second",
+    "asl.Seconds.Few": "seconds",
+    "asl.Seconds.Many": "seconds",
+    "asl.LessThanSecond": "less than a second"
+}

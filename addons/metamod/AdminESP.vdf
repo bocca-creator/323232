@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"AdminESP"
+	"file"	"addons/AdminESP/AdminESP"
+}

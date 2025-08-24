@@ -1,0 +1,4 @@
+2024-11-28 05:13:46.516 +03:00 [EROR] plugin:ServersInfo Failed to query server БЕШЕНЫЙ AWP © | PUBLIC (45.93.200.154:27017): Could not gather Info
+2024-11-28 05:22:06.481 +03:00 [EROR] plugin:ServersInfo Failed to query server MANIAC © | HNS (45.93.200.154:27018): Could not gather Info
+2024-11-28 05:38:46.479 +03:00 [EROR] plugin:ServersInfo Failed to query server БЕШЕНЫЙ AWP © | PUBLIC (45.93.200.154:27017): Could not gather Info
+2024-11-28 05:47:06.478 +03:00 [EROR] plugin:ServersInfo Failed to query server MANIAC © | HNS (45.93.200.154:27018): Could not gather Info

@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"sql"
+	"file"	"addons/sql_mm/bin/linuxsteamrt64/sql_mm"
+}

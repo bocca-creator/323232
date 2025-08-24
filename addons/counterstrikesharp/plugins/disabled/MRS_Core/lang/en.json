@@ -1,0 +1,34 @@
+{
+    "chatPrefix": " {LightRed}[REPORT]◗ {Default} ",
+
+    "targetIsOut_Chat": "Unfortunately, the player has left the server",
+    "targetIsOut_Hud": "Unfortunately, the player has left the server",
+
+    "sentReport_Chat": "You {Lime}sent {Default}a report on {Grey}{TARGET_NAME} {Default}for reason: {Grey}{REASON}",
+    "sentReportMessage_Chat": "You {Lime}sent {Default}a report on {Grey}{TARGET_NAME}{Default}, message: {Grey}{REASON}",
+    
+    "selectPlayerCustomReason_Chat": "Error, you need to select a player to provide a reason =(",
+    "selectPlayerCustomReason_Hud": "Error, you need to select a player to provide a reason =(",
+
+    "customReason_Chat": "Enter !reason {LightRed}*reason*{Default}. Example: !reason {LightRed}begging",
+    "customReason_Hud": "Enter !reason *reason*. Example: !reason begging",
+
+    "zeroPlayers_Chat": "Unfortunately, there are no available players",
+    "zeroPlayers_Hud": "Unfortunately, there are no available players",
+
+    "cooldown_Chat": "Error, you can send a report in {LightRed}{MIN}{Default} min and {LightRed}{SEC}{Default} sec.",
+    "cooldown_Hud": "Error, you can send a report in {MIN} min and {SEC} sec.",
+    
+    "canceledReport_Chat": "You {LightRed}cancelled {Default}the report on {Grey}{TARGET_NAME}",
+    "canceledReport_Hud": "You cancelled the report on {TARGET_NAME}",
+
+    "menuTitle_SelectPlayer": "[REPORT] Select a player",
+    "menuTitle_SelectReason": "[REPORT] Select a reason",
+    "menuTitle_SelectMessage": "[REPORT] Select a message",
+
+    "menuItem_Back": "go back",
+
+    "menuItem_Cancel": "cancel report",
+    "menuItem_CustomReason": "enter custom reason",
+    "menuItem_SelectMessage": "message from chat"
+}

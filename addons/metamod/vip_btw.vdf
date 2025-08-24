@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"vip_btw"
+	"file"	"addons/vip_modules/vip_btw"
+}

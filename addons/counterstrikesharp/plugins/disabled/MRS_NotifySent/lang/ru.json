@@ -1,0 +1,4 @@
+{
+    "text": "<font class='fontSize-sm'>Вы успешно отправили репорт на <b color='#ff2400'>{TARGET_NAME}</b><br><img src='{AVATAR_URL}'><br></font>", // Можно использовать {REASON} для вывода причины
+    "text_Message": "<font class='fontSize-sm'>Вы успешно отправили репорт на <b color='#ff2400'>{TARGET_NAME}</b><br><img src='{AVATAR_URL}'><br></font>" // Можно использовать {REASON} для вывода причины
+}

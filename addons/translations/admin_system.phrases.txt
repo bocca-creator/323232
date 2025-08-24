@@ -1,0 +1,397 @@
+"Phrases"
+{
+	"SlapDamage"
+	{
+		"ru"	"Выберите количество урона"
+		"ua"	"Виберіть кількість шкоди"
+		"en"	"Choose the amount of damage"
+	}
+	"SelectPlayer"
+	{
+		"ru"	"Выберите игрока"
+		"ua"	"Виберіть гравця"
+		"en"	"Choose a player"
+	}
+	"SelectTime"
+	{
+		"ru"    "Выберите время наказания"
+		"ua"    "Виберіть час покарання"
+		"en"    "Select punishment time"
+	}
+	"SelectReason"
+	{
+		"ru"    "Выберите причину"
+		"ua"    "Виберіть причину"
+		"en"    "Select reason"
+	}
+	"BanPlayer"
+	{
+		"ru"    "Забанить игрока"
+		"ua"    "Забанити гравця"
+		"en"    "Ban player"
+	}
+	"MutePlayer"
+	{
+		"ru"    "Мут войса игрока"
+		"ua"    "Приглушити голос гравця"
+		"en"    "Mute player's voice"
+	}
+	"GagPlayer"
+	{
+		"ru"    "Мут чата игрока"
+		"ua"    "Приглушити чат гравця"
+		"en"    "Mute player's chat"
+	}
+	"SilencePlayer"
+	{
+		"ru"    "Общий мут игрока"
+		"ua"    "Загальний мут гравця"
+		"en"    "Mute player globally"
+	}
+	"KickPlayer"
+	{
+		"ru"    "Кикнуть игрока"
+		"ua"    "Вигнати гравця"
+		"en"    "Kick player"
+	}
+	"SlayPlayer"
+	{
+		"ru"    "Убить игрока"
+		"ua"    "Вбити гравця"
+		"en"    "Slay player"
+	}
+	"SlapPlayer"
+	{
+		"ru"    "Шлёпнуть игрока"
+		"ua"    "Вдарити гравця"
+		"en"    "Slap player"
+	}
+	"WhoPlayer"
+	{
+		"ru"    "Опознать игрока"
+		"ua"    "Визначити гравця"
+		"en"    "Identify player"
+	}
+	"ChangeTeamPlayer"
+	{
+		"ru"    "Сменить команду игрока"
+		"ua"    "Змінити команду гравця"
+		"en"    "Change player's team"
+	}
+	"SelectTeam"
+	{
+		"ru"    "Выберите команду"
+		"ua"    "Виберіть команду"
+		"en"    "Select team"
+	}
+	"TeamSpec"
+	{
+		"ru"    "Наблюдатели"
+		"ua"    "Спостерігачі"
+		"en"    "Spectators"
+	}
+	"TeamCT"
+	{
+		"ru"    "Контр-террорист"
+		"ua"    "Контр-терорист"
+		"en"    "Counter-Terrorist"
+	}
+	"TeamT"
+	{
+		"ru"    "Террорист"
+		"ua"    "Терорист"
+		"en"    "Terrorist"
+	}
+	"NoclipPlayer"
+	{
+		"ru"    "Полёт"
+		"ua"    "Політ"
+		"en"    "Noclip"
+	}
+	"ChangeMap"
+	{
+		"ru"    "Сменить карту"
+		"ua"    "Змінити карту"
+		"en"    "Change map"
+	}
+	"SelectMap"
+	{
+		"ru"    "Выберите карту"
+		"ua"    "Виберіть карту"
+		"en"    "Select map"
+	}
+	"Player Leave"
+	{
+		"en"		"Your selected {BLUE} player {DEFAULT} has left the server."
+		"ua"		"Обраний вами {BLUE}гравець {DEFAULT}вийшов із сервера"
+		"ru"		"Выбранный вами {BLUE}игрок {DEFAULT}вышел с сервера"
+	}
+	"Admin Menu"
+	{
+		"en"		"Admin Menu"
+		"ua"		"Меню адміністратора"
+		"ru"		"Меню Администратора"
+	}
+	
+	"PlayerCommands"
+	{
+		"en"		"Player Commands"
+		"ua"		"Управління гравцями"
+		"ru"		"Управление игроками"
+	}
+
+	"ServerCommands"
+	{
+		"en"		"Server Commands"
+		"ua"		"Управління сервером"
+		"ru"		"Управление сервером"
+	}
+
+	"VotingCommands"
+	{
+		"en"		"Voting Commands"
+		"ua"		"Управління голосуваннями"
+		"ru"		"Управление голосованиями"
+	}
+
+	"Prefix"
+	{
+		"en"	""
+		"ru"	""
+		"ua"    ""
+	}
+	"Usage"
+	{
+		"en"	"Usage: "
+		"ru"    "Используйте: "
+		"ua"    "Використання: "
+	}
+	"Changing map"
+	{
+		"en"	"Changing map to %s..."
+		"ru"	"Смена карты на %s..."
+		"ua"	"Зміна карти на %s..."
+	}
+	"Changing map workshop"
+	{
+		"en"	"Attempting a map change to %s from the workshop collection..."
+		"ru"	"Попытка изменения карты на %s из коллекции мастерских..."
+		"ua"	"Спроба зміни карти на %s з колекції майстерень..."
+	}
+	"Admins reloaded"
+	{
+		"en"	"The admin list has been successfully reloaded."
+		"ru"	"Список админов успешно перезагружен."
+		"ua"	"Список адміністраторів успішно перезавантажено."
+	}
+	"Target not found"
+	{
+		"en"	"Target not found."
+		"ru"	"Цель не найдена."
+		"ua"	"Ціль не знайдена."
+	}
+	"Slayed"
+	{
+		"en"	"Admin %s has slayed %s"
+		"ru"	"Администратор: %s убил %s"
+		"ua"	"Адміністратор %s вбив %s"
+	}
+	"Slapped"
+	{
+		"en"	"Admin %s has slapped %s"
+		"ru"	"Администратор: %s шлёпнул %s"
+		"ua"	"Адміністратор %s вдарив %s"
+	}
+	"Moved"
+	{
+		"en"	"Admin %s moved %s to %s"
+		"ru"	"Администратор: %s переместил %s за %s"
+		"ua"	"Адміністратор %s перемістив %s до %s"
+	}
+	"Invalid Team"
+	{
+		"en"	"Invalid team specified, range is 0-3."
+		"ru"	"Указана недопустимая команда, диапазон 0-3."
+		"ua"	"Вказана недопустима команда, діапазон 0-3."
+	}
+	"ANoclipDisable"
+	{
+		"en"	"Admin %s exited noclip."
+		"ru"	"Администратор: %s вышел из noclip."
+		"ua"	"Адміністратор %s вийшов з noclip."
+	}
+	"ANoclipEnable"
+	{
+		"en"	"Admin %s entered noclip."
+		"ru"	"Администратор: %s вошел в noclip."
+		"ua"	"Адміністратор %s увійшов у noclip."
+	}
+	"NoclipDead"
+	{
+		"en"	"You cannot using noclip while dead!"
+		"ru"	"Вы не можете использовать noclip, будучи мертвым!"
+		"ua"	"Ви не можете використовувати noclip, будучи мертвим!"
+	}
+	"NoclipDisable"
+	{
+		"en"	"Admin %s deactivated noclip %s"
+		"ru"	"Администратор: %s деактивировал noclip %s"
+		"ua"	"Адміністратор %s деактивував noclip %s"
+	}
+	"NoclipEnable"
+	{
+		"en"	"Admin %s activated noclip %s"
+		"ru"	"Администратор: %s активировал noclip %s"
+		"ua"	"Адміністратор %s активував noclip %s"
+	}
+	"Freeze"
+	{
+		"en"	"Admin %s has freezing %s"
+		"ru"	"Администратор: %s заморозил %s"
+		"ua"	"Адміністратор %s заморозив %s"
+	}
+	"Unfreeze"
+	{
+		"en"	"Admin %s has unfreezing %s"
+		"ru"	"Администратор: %s разморозил %s"
+		"ua"	"Адміністратор %s розморозив %s"
+	}
+	"Invalid duration"
+	{
+		"en"	"Invalid duration."
+		"ru"	"Неверная длительность."
+		"ua"	"Невірна тривалість."
+	}
+	"Invalid immunity"
+	{
+		"en"	"Invalid immunity."
+		"ru"	"Неверный иммунитет."
+		"ua"	"Невірний імунітет."
+	}
+	"You console"
+	{
+		"en"	"You are already on the server console."
+		"ru"	"Вы уже находитесь в консоли сервера"
+		"ua"	"Ви вже знаходитесь в консолі сервера"
+	}
+	"Access"
+	{
+		"en"	"%s has access: %s"
+		"ru"	"%s имеет доступ: %s"
+		"ua"	"%s має доступ: %s"
+	}
+	"AccessAdmin"
+	{
+		"en"	"%s is logged in as %s with access: %s"
+		"ru"	"%s вошел как %s с доступом: %s"
+		"ua"	"%s увійшов як %s з доступом: %s"
+	}
+	"AccessNoPlayers"
+	{
+		"en"	"No players found"
+		"ru"	"Не найдено ни одного игрока"
+		"ua"	"Гравців не знайдено"
+	}
+	"Kick"
+	{
+		"en"	"Admin %s has kicked %s"
+		"ru"	"Администратор: %s выгнал %s"
+		"ua"	"Адміністратор %s вигнав %s"
+	}
+	"UnMuted"
+	{
+		"en"	"Admin %s has unmuted %s"
+		"ru"	"Администратор: %s размутил войс %s"
+		"ua"	"Адміністратор %s розмутив войс %s"
+	}
+	"UnGagged"
+	{
+		"en"	"Admin %s has ungagged %s"
+		"ru"	"Администратор: %s размутил чат %s"
+		"ua"	"Адміністратор %s розмутив чат %s"
+	}
+	"UnSilence"
+	{
+		"en"	"Admin %s has unsilence %s"
+		"ru"	"Администратор: %s снял все голосовые и текстовые муты %s"
+		"ua"	"Адміністратор %s зняв всі голосові і текстові мути %s"
+	}
+	"BanPermanent"
+	{
+		"en"	"• {RED}| {DEFAULT}Administration: {OLIVE}%s\n{DEFAULT}• {RED}| {DEFAULT}Forever blocked: {LIGHTRED}%s"
+		"ru"	"• {RED}| {DEFAULT}Администратор: {OLIVE}%s\n{DEFAULT}• {RED}| {DEFAULT}Навсегда заблокировал: {LIGHTRED}%s"
+		"ua"	"• {RED}| {DEFAULT}Адміністратор: {OLIVE}%s\n{DEFAULT}• {RED}| {DEFAULT}Назавжди заблокований: {LIGHTRED}%s"
+	}
+	"Ban"
+	{
+		"en"	"• {OLIVE}| {DEFAULT}Administrator: {LIGHTRED}%s\n{DEFAULT}• {OLIVE}| {DEFAULT}I banned: {LIGHTOLIVE}%s {DEFAULT}on {OLIVE}%i {DEFAULT}minutes."
+		"ru"	"• {OLIVE}| {DEFAULT}Администратор: {LIGHTRED}%s\n{DEFAULT}• {OLIVE}| {DEFAULT}Забанил: {LIGHTOLIVE}%s {DEFAULT}на {OLIVE}%i {DEFAULT}минут."
+		"ua"	"• {OLIVE}| {DEFAULT}Адміністратор: {LIGHTRED}%s\n{DEFAULT}• {OLIVE}| {DEFAULT}Я заборонений: {LIGHTOLIVE}%s {DEFAULT}на {OLIVE}%i {DEFAULT}хвилини."
+	}
+	"MutePermanent"
+	{
+		"en"	"• {BLUE}| {DEFAULT}Administrator: {OLIVE}%s\n{DEFAULT}• {BLUE}| {DEFAULT}He turned off his voice forever: {LIGHTBLUE}%s"
+		"ru"	"• {BLUE}| {DEFAULT}Администратор: {OLIVE}%s\n{DEFAULT}• {BLUE}| {DEFAULT}Навсегда отключил голос: {LIGHTBLUE}%s"
+		"ua"	"• {BLUE}| {DEFAULT}Адміністратор: {OLIVE}%s\n{DEFAULT}• {BLUE}| {DEFAULT}Він назавжди вимкнув голос: {LIGHTBLUE}%s"
+	}
+	"Mute"
+	{
+		"en"	"• {GREEN}| {DEFAULT}Administrator: {OLIVE}%s\n{DEFAULT}• {GREEN}| {DEFAULT}Disabled a voice: {LIGHTGREEN}%s {DEFAULT}on {GREEN}%i {DEFAULT}minutes."
+		"ru"	"• {GREEN}| {DEFAULT}Администратор: {OLIVE}%s\n{DEFAULT}• {GREEN}| {DEFAULT}Отключил голос: {LIGHTGREEN}%s {DEFAULT}на {GREEN}%i {DEFAULT}минут."
+		"ua"	"• {GREEN}| {DEFAULT}Адміністратор: {OLIVE}%s\n{DEFAULT}• {GREEN}| {DEFAULT}Відключений голос: {LIGHTGREEN}%s {DEFAULT}на {GREEN}%i {DEFAULT}хвилини."
+	}
+	"GagPermanent"
+	{
+		"en"	"• {BLUE}| {DEFAULT}Administrator: {OLIVE}%s\n{DEFAULT}• {BLUE}| {DEFAULT}Forever turned off the chat: {LIGHTBLUE}%s"
+		"ru"	"• {BLUE}| {DEFAULT}Администратор: {OLIVE}%s\n{DEFAULT}• {BLUE}| {DEFAULT}Навсегда отключил чат: {LIGHTBLUE}%s"
+		"ua"	"• {BLUE}| {DEFAULT}Адміністратор: {OLIVE}%s\n{DEFAULT}• {BLUE}| {DEFAULT}Назавжди вимкнув чат: {LIGHTBLUE}%s"
+	}
+	"Gag"
+	{
+		"en"	"• {GREEN}| {DEFAULT}Administrator: {OLIVE}%s\n{DEFAULT}• {GREEN}| {DEFAULT}Disabled the chat: {LIGHTGREEN}%s {DEFAULT}on {GREEN}%i {DEFAULT}minutes."
+		"ru"	"• {GREEN}| {DEFAULT}Администратор: {OLIVE}%s\n{DEFAULT}• {GREEN}| {DEFAULT}Отключил чат: {LIGHTGREEN}%s {DEFAULT}на {GREEN}%i {DEFAULT}минут."
+		"ua"	"• {GREEN}| {DEFAULT}Адміністратор: {OLIVE}%s\n{DEFAULT}• {GREEN}| {DEFAULT}Вимкнув чат: {LIGHTGREEN}%s {DEFAULT}на {GREEN}%i {DEFAULT}хвилини."
+	}
+	"SilencePermanent"
+	{
+		"en"	"• {BLUE}| {DEFAULT}Administrator:: {OLIVE}%s\n{DEFAULT}• {BLUE}| {DEFAULT}Turned off the voice and chat forever: {LIGHTBLUE}%s"
+		"ru"	"• {BLUE}| {DEFAULT}Администратор:: {OLIVE}%s\n{DEFAULT}• {BLUE}| {DEFAULT}Навсегда отключил голос и чат: {LIGHTBLUE}%s"
+		"ua"	"• {BLUE}| {DEFAULT}Адміністратор:: {OLIVE}%s\n{DEFAULT}• {BLUE}| {DEFAULT}Вимкнути голос і назавжди поспілкуватися: {LIGHTBLUE}%s"
+	}
+	"Silence"
+	{
+		"en"	"• {GREEN}| {DEFAULT}Administrator: {OLIVE}%s\n{DEFAULT}• {GREEN}| {DEFAULT}Disconnected voice and chat: {LIGHTGREEN}%s {DEFAULT}on {GREEN}%i {DEFAULT}minutes."
+		"ru"	"• {GREEN}| {DEFAULT}Администратор: {OLIVE}%s\n{DEFAULT}• {GREEN}| {DEFAULT}Отключил голос и чат: {LIGHTGREEN}%s {DEFAULT}на {GREEN}%i {DEFAULT}минут."
+		"ua"	"• {GREEN}| {DEFAULT}Адміністратор: {OLIVE}%s\n{DEFAULT}• {GREEN}| {DEFAULT}Відключений голос і чат: {LIGHTGREEN}%s {DEFAULT}на {GREEN}%i {DEFAULT}хвилини."
+	}
+	"AddAdmin"
+	{
+		"en"	"Admin %s successfully added"
+		"ru"	"Администратор: %s успешно добавлен"
+		"ua"	"Адміністратор %s успішно доданий"
+	}
+	"RemoveAdmin"
+	{
+		"en"	"Admin %s successfully deleted"
+		"ru"	"Администратор: %s успешно удалён"
+		"ua"	"Адміністратор %s успішно видалений"
+	}
+	"UpdateAdmin"
+	{
+		"en"	"Admin information has been successfully updated"
+		"ru"	"Информация об Администратор:е успешно обновлена"
+		"ua"	"Інформація про адміністратора успішно оновлена"
+	}
+	"DenyAccess"
+	{
+		"en"	"You don't have access to this command."
+		"ru"	"У вас нет доступа к этой команде."
+		"ua"	"У вас немає доступу до цієї команди."
+	}
+	"Target immunity"
+	{
+		"en"	"You can't use this on an administrator above you in rank"
+		"ru"	"Вы не можете использовать это на Администратор:е выше вас рангом"
+		"ua"	"Ви не можете використовувати це на адміністраторі вищого рангу за вас"
+	}
+}

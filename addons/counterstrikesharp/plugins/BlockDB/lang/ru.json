@@ -1,0 +1,10 @@
+{
+	"ViewPlayerBans": "Баны игроков на других серверах",
+	"ByIp": "По айпи",
+	"ByAccount": "По аккаунту",
+	"SelectType": "Выберите тип бана",
+	"SelectPlayer": "Выберите игрока",
+	"BansList": "Список банов",
+	"ChatMessage": "{default}Зашел игрок {green}{name}, {red}{count}{default} банов на {red}{project_count}{default} проектах\n {default}У его айпи {red}{ip_count}{default} банов на {red}{ip_project_count}{default} проектах",
+  	"HudMessage": "Зашел игрок {name}, {count} банов на {project_count} проектах\nУ его айпи {ip_count} банов на {ip_project_count} проектах"
+}

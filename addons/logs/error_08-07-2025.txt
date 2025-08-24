@@ -1,0 +1,15 @@
+L 08/07/2025 - 08:23:21: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/07/2025 - 08:23:22: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/07/2025 - 08:23:22: [VIP] Missing MYSQL plugin
+L 08/07/2025 - 10:03:31: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/07/2025 - 10:03:31: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/07/2025 - 10:03:31: [VIP] Missing MYSQL plugin
+L 08/07/2025 - 12:54:59: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/07/2025 - 12:54:59: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/07/2025 - 12:54:59: [VIP] Missing MYSQL plugin
+L 08/07/2025 - 17:11:44: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/07/2025 - 17:11:44: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/07/2025 - 17:11:45: [VIP] Missing MYSQL plugin
+L 08/07/2025 - 17:17:47: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/07/2025 - 17:17:47: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/07/2025 - 17:17:47: [VIP] Missing MYSQL plugin

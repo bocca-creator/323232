@@ -1,0 +1,7 @@
+{
+	"GiveIntervalCredits": "[{Green}МАГАЗИН{Default}] Вы получили {Green}{0}{Default} кредитов за минуту игры на нашем сервере!",
+    "PlayerKill": "[{Green}МАГАЗИН{Default}] Вы получили {Green}{0}{Default} кредитов за убийство игрока!",
+	"PlayerDeath": "[{Green}МАГАЗИН{Default}] У вас забрали {Green}{0}{Default} кредитов за смерть!",
+	"RoundEnd": "[{Green}МАГАЗИН{Default}] Вы получили {Green}{0}{Default} кредитов за окончание раунда!",
+	"RoundStart": "[{Green}МАГАЗИН{Default}] Вы получили {Green}{0}{Default} кредитов за начало раунда!"
+}

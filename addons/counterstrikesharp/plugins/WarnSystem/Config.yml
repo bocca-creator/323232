@@ -1,0 +1,21 @@
+# Конфигурационный файл для WarnSystem
+# Команда для бана игроков
+BanCommand: "mm_ban {0} {1} {2}"
+# Максимальное количество предупреждений до бана
+MaxWarningsBeforeBan: "3"
+# Продолжительность бана в секундах
+BanDuration: "600"
+# Причина бана
+BanReason: "Множественные предупреждения"
+# Сообщение о бане
+BanMessage: "[{Red}ADMIN{White}] Игрок {Red}{PlayerName}{White} был забанен за множественные предупреждения."
+# Сообщение о предупреждении
+WarningMessage: "[{Red}ADMIN{White}] Игрок {Red}{PlayerName}{White} получил предупреждение. Текущее количество предупреждений: {Red}{Warnings}{White}. Осталось до бана: {Red}{WarningsLeft} {White}предупреждений."
+# Сообщение о снятии предупреждений
+WarningsClearedMessage: "<font color='green' class='fontSize-l'>Ваши предупреждения сняты.</font>"
+# Сообщение администратору о снятии предупреждений
+AdminWarningsClearedMessage: "[{Red}ADMIN{White}] Предупреждения игрока {Green}{PlayerName}{White} сняты."
+# Сообщение администратору, если у игрока нет предупреждений
+NoWarningsMessage: "[{Red}ADMIN{White}] У игрока {Green}{PlayerName}{White} нет предупреждений."
+# Центрированное сообщение о предупреждении
+WarningCenterMessage: "<font color='red' class='fontSize-l'>Вы получили предупреждение. У вас теперь {Warnings} предупреждений. Осталось до бана: {WarningsLeft} предупреждений.</font>"

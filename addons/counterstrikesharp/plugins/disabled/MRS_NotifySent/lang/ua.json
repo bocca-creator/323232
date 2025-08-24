@@ -1,0 +1,4 @@
+{
+    "text": "<font class='fontSize-sm'>Ви успішно відправили звіт на <b color='#ff2400'>{TARGET_NAME}</b><br><img src='{AVATAR_URL}'><br></font>", // Можна використовувати {REASON} для відображення причини
+    "text_Message": "<font class='fontSize-sm'>Ви успішно відправили звіт на <b color='#ff2400'>{TARGET_NAME}</b><br><img src='{AVATAR_URL}'><br></font>" // Можна використовувати {REASON} для відображення причини
+}

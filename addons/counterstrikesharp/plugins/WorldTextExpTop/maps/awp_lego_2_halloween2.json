@@ -1,0 +1,88 @@
+{
+  "texts": [
+    {
+      "text_1_pos": {
+        "absOrigin_x": -32.41693,
+        "absOrigin_y": -1210.2909,
+        "absOrigin_z": 397.94476,
+        "qAngle_x": 0.0,
+        "qAngle_y": 179.43591,
+        "qAngle_z": 90.0
+      },
+      "text_2_pos": {
+        "absOrigin_x": -32.41693,
+        "absOrigin_y": -1210.2909,
+        "absOrigin_z": 377.94476,
+        "qAngle_x": 0.0,
+        "qAngle_y": 179.43591,
+        "qAngle_z": 90.0
+      },
+      "text_3_pos": {
+        "absOrigin_x": -32.41693,
+        "absOrigin_y": -1210.2909,
+        "absOrigin_z": 367.94476,
+        "qAngle_x": 0.0,
+        "qAngle_y": 179.43591,
+        "qAngle_z": 90.0
+      },
+      "text_4_pos": {
+        "absOrigin_x": -32.41693,
+        "absOrigin_y": -1210.2909,
+        "absOrigin_z": 357.94476,
+        "qAngle_x": 0.0,
+        "qAngle_y": 179.43591,
+        "qAngle_z": 90.0
+      },
+      "text_5_pos": {
+        "absOrigin_x": -32.41693,
+        "absOrigin_y": -1210.2909,
+        "absOrigin_z": 342.94476,
+        "qAngle_x": 0.0,
+        "qAngle_y": 179.43591,
+        "qAngle_z": 90.0
+      }
+    },
+    {
+      "text_1_pos": {
+        "absOrigin_x": -53.875793,
+        "absOrigin_y": 1209.3938,
+        "absOrigin_z": 412.77386,
+        "qAngle_x": 0.0,
+        "qAngle_y": -0.6996918,
+        "qAngle_z": 90.0
+      },
+      "text_2_pos": {
+        "absOrigin_x": -53.875793,
+        "absOrigin_y": 1209.3938,
+        "absOrigin_z": 392.77386,
+        "qAngle_x": 0.0,
+        "qAngle_y": -0.6996918,
+        "qAngle_z": 90.0
+      },
+      "text_3_pos": {
+        "absOrigin_x": -53.875793,
+        "absOrigin_y": 1209.3938,
+        "absOrigin_z": 382.77386,
+        "qAngle_x": 0.0,
+        "qAngle_y": -0.6996918,
+        "qAngle_z": 90.0
+      },
+      "text_4_pos": {
+        "absOrigin_x": -53.875793,
+        "absOrigin_y": 1209.3938,
+        "absOrigin_z": 372.77386,
+        "qAngle_x": 0.0,
+        "qAngle_y": -0.6996918,
+        "qAngle_z": 90.0
+      },
+      "text_5_pos": {
+        "absOrigin_x": -53.875793,
+        "absOrigin_y": 1209.3938,
+        "absOrigin_z": 357.77386,
+        "qAngle_x": 0.0,
+        "qAngle_y": -0.6996918,
+        "qAngle_z": 90.0
+      }
+    }
+  ]
+}

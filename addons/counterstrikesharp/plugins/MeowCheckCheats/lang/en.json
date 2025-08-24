@@ -1,0 +1,58 @@
+{
+    "chatPrefix": " {LightRed}[MeowCheckCheats]{Default} ",
+
+    "repeatContact": "Enter {LightRed}!contact your_discord {Default}!",
+    "repeatContactSuccess": "You have successfully reminded about discord =)",
+    "repeatContactNotSuccess": "Error, the victim has already specified discord {Blue}{DISCORD}",
+
+    "playerSuccessfulCheck": "You have successfully passed the check, have a nice game =)",
+    "adminSuccessfulCheck": "You have successfully completed the check =)",
+    
+    "adminCalledOnCheck": "Administrator {LightRed}{ADMIN_NAME}{Default} has called player {Grey}{TARGET_NAME} {Default}for a check",
+    "targetDisconnected": "Player {Grey}{TARGET_NAME} {DEFAULT}has left the server and was automatically banned, check completed",
+    "targetNullDiscord": "Player failed to specify discord and was automatically banned, check completed",
+    
+    "successContactTarget": "You have successfully specified discord, waiting for admin's call",
+    "successContactAdmin": "Player has specified discord: {Blue}{DISCORD}",
+    "nullArgsContact": "Error, you didn't specify discord. \nEnter!contact {LightRed}your_discord {Default}(example:!contact CYBERC4T)",
+    
+    "switchTeamUnAvailableInCheck": "Error, you cannot switch teams because you are on a check =(", // 1.4.0
+
+    "listTargetsNull": "Error, no available players", // 1.1.0
+    "mainMenuTitle": "Select a necessary player",
+
+    "targetNull": "Error, the selected player is absent =(",
+    "playerOnCheck": "Error, the player is already on a check", // 1.4.5
+
+    "managementMenuTitle": "Select an action with {TARGET_NAME}",
+    "managementMenuItem1": "Complete the check",
+    "managementMenuItem2": "Remind about!contact",
+    "managementMenuItem3": "Move to spectators", // 1.2.0
+    "managementMenuItem4": "Play a sound", // 1.2.0
+    "managementMenuItem5": "Add +{TIME} seconds", // 1.4.0
+
+    "moveSpecSuccess": "You have moved the victim to spectators", // 1.2.0
+    "moveSpecNotSuccess": "Error, the victim is already in spectators", // 1.2.0
+    "playSoundSuccess": "The sound has been played for the victim", // 1.2.0
+    "addTimeSuccess": "You have successfully added +{TIME} seconds for discord input\nRemaining - {MIN} min {SEC} sec", // 1.4.0
+
+    "verdictMenuTitle": "What is the verdict for {TARGET_NAME}?",
+    "verdictMenuItem1": "Cheater",
+    "verdictMenuItem2": "Clean", // 1.1.0
+    "verdictMenuItem3": "Refuse to check",
+
+    "textForPlayer": "Enter your discord using <b color='#ff2b2b'>!contact your_discord</b><br><br>You have {MIN} min {SEC} sec left<br>To provide discord",
+    
+    "textForAdmin": "The victim has {MIN} min {SEC} sec left",
+
+    "textIsChecking": "{LightRed}[ON CHECK]",
+
+    "actionTargetMenuTitle": "Select an action ({TARGET_NAME})", // 1.4.6
+    "actionTargetMenuItem1": "Statistics", // 1.4.6
+    "actionTargetMenuItem2": "Check", // 1.4.6
+
+    "menuItemBack": "Go back", // 1.4.6
+
+    "statsShowInConsole": "Statistics sent to console", // 1.4.6
+    "statsFormat": "{DATEEND} | Verdict: {LightRed}{VERDICT}{Default} | Discord {SUSPECT_DISCORD}" // 1.4.6
+}

@@ -1,0 +1,4 @@
+{
+    "adminTakeReport": "{LightRed}[REPORT]◗ {Default}Administrator {LightRed}{DISPLAY_NAME}{Default} has taken your report {Red}❤️", // You can use {USERNAME} - displaying username xD / {GLOBAL_NAME} - displaying name in Discord / {DISPLAY_NAME} - displaying name on the server
+    "adminCloseReport": "{LightRed}[REPORT]◗ {Default}Administrator {LightRed}{DISPLAY_NAME}{Default} closed your report on {Grey}{TARGET_NAME}{Default}. Verdict: {Red}{VERDICT}"  // You can use {USERNAME} - displaying username xD / {GLOBAL_NAME} - displaying name in Discord / {DISPLAY_NAME} - displaying name on the server
+}

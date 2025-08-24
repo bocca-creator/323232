@@ -1,0 +1,63 @@
+{
+	"Ads": [
+	  {
+		"Interval": 30,
+		"Messages": [
+			{
+				"Center": "Добавьте наш сервер в избранное: 45.93.200.154:27015"
+			},
+			{
+				"Center": "Заявку на админа можно подать на сайте, или купить навсегда!"
+			},
+			{
+			  "Center": "Сброс статистики - {GREEN}!rs"
+			},
+			{
+				"Chat": "{RED}☬ HvH  |{WHITE} Добавьте наш сервер в избранное: {GREEN}45.93.200.154:27015\n"
+			},				
+			{
+				"Chat": "{GREEN}| {GREEN}● Сайт со статистикой -{BLUE} CS-ZAMES.RU{GREEN} \n{GREEN}| {GREEN}● Дискорд проекта -{RED} discord.gg/ZVNrQztMbu{GREEN} \n{GREEN}| {GREEN}● Покупка привелегий -{BLUE} CS-ZAMES.RU/STORE{GREEN}\n"
+			},
+			{
+				"Chat": "{RED}☬ HvH  |{WHITE} Введите {GREEN}!rank {WHITE}для вывода личной статистики! \n"
+			},
+		    {
+			  "Chat": "\u2029{GOLD}▭▭▭▭▭▭▭▭▭▭▭▭[◆]▭▭▭▭▭▭▭▭▭▭▭▭▭ \u2029{GOLD}[> {GREEN}CFG от [ебанат]: {GOLD}Купить: {GREEN} funpay.com/lots/offer?id=36409293{GOLD} <] \u2029{GOLD}▭▭▭▭▭▭▭▭▭▭▭▭[◆]▭▭▭▭▭▭▭▭▭▭▭▭▭\u2029"
+		    },			
+			{
+				"Chat": " \n{RED}➜ У нас вы можете изменить скин на любое оружие,{RED} \n{RED}➜ Также агентов, музыку, медали!{RED} \n{RED}➜ Воспользоваться данной функцией{RED}\n{RED}➜ Вы можете на нашем сайте: {ORANGE}CS-ZAMES.RU{GREEN}\n"
+			},
+			{
+				"Chat": " \n{RED}☬ HvH  | {WHITE}Проблемы? Пиши {GREEN}!report \n"
+			},
+			{
+			  "Chat": " \n{RED}➜ Если желаете рекламировать свой конфиг,{RED} \n{RED}➜ Купите услугу {GREEN}ПИАР КОНФИГА + VIP!{RED} \n{RED}➜ Чтобы купить этот набор,{RED}\n{RED}➜ Зайдите на сайт: {ORANGE}CS-ZAMES.RU/STORE{GREEN}\n"
+			},
+			{
+				"Chat": "{RED}☬ HvH  |{GREEN} Доступные команды:  \n• {GREEN}| {YELLOW}!ws , !rank, !top, !admins, !vip, !lvl, !rs{YELLOW} \n"
+			},
+			{
+				"Chat": "{RED}☬ HvH  |{WHITE} Текущее время: {RED}{TIME} \n"
+			},
+			{
+				"Chat": "{RED}☬ HvH  |{WHITE} Хочешь узнать что даст тебе VIP?{LIGHTRED} !viptest \n"
+			},
+			{
+				"Chat": "{RED}☬ HvH  |{WHITE} Рестарт сервера {YELLOW}каждый день {WHITE}в {GREEN}7:30! \n"
+			},
+			{
+				"Chat": "{RED}☬ HvH  |{GREEN} На сервере работают репорты: {YELLOW}!report \n"
+			},
+			{
+				"Chat": "{RED}☬ HvH  |{GREEN} На сервере есть АНИМЕ модели: {YELLOW}!shop! \n"
+			},
+			{
+				"Chat": "{RED}☬ HvH  |{GREEN} Вы можете сменить FOV в VIP-меню: {YELLOW}!vip \n"
+			},
+			{
+				"Chat": "{RED}☬ HvH  |{GREEN} Информация о VIP группах:  \n• {GREEN}| {YELLOW}Отзыв на сайте {WHITE}- VIP Бесплатно на неделю!{YELLOW} \n• {GREEN}| {YELLOW}Девушкам {WHITE}- Любая VIP группа бесплатно!{YELLOW} \n"
+			}
+		]
+	  }
+	]
+  }

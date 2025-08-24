@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"fh_vip"
+	"file"	"addons/vip_modules/fh_vip"
+}

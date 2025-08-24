@@ -1,0 +1,4 @@
+2025-01-09 09:30:34.085 +03:00 [INFO] plugin:MeowCheckCheats The server has successfully passed the license check <3
+2025-01-09 11:58:41.712 +03:00 [INFO] plugin:MeowCheckCheats The server has successfully passed the license check <3
+2025-01-09 12:00:06.261 +03:00 [INFO] plugin:MeowCheckCheats The server has successfully passed the license check <3
+2025-01-09 12:06:32.328 +03:00 [INFO] plugin:MeowCheckCheats The server has successfully passed the license check <3

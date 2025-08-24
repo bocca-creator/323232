@@ -1,0 +1,1 @@
+2025-01-22 09:30:48.756 +03:00 [INFO] plugin:MeowCheckCheats The server has successfully passed the license check <3

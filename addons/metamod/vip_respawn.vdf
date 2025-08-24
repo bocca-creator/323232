@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"vip_respawn"
+	"file"	"addons/vip_modules/vip_respawn"
+}

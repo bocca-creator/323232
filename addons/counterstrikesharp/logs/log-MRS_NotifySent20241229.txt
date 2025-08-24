@@ -1,0 +1,1 @@
+2024-12-29 13:41:31.000 +03:00 [INFO] plugin:[MRS] NotifySent Ошибка при получении URL аватарки Steam: The remote server returned an error: (403) Forbidden.

@@ -1,0 +1,6 @@
+2025-01-05 00:36:33.065 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2025-01-05 00:36:33.066 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 3
+2025-01-05 00:36:33.066 +03:00 [INFO] plugin:IksAdmin admins: 3
+2025-01-05 09:30:20.570 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2025-01-05 09:30:20.575 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 3
+2025-01-05 09:30:20.575 +03:00 [INFO] plugin:IksAdmin admins: 3

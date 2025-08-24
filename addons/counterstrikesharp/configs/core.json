@@ -1,0 +1,12 @@
+{
+    "PublicChatTrigger": [ "!" ],
+    "SilentChatTrigger": [ "/" ],
+    "FollowCS2ServerGuidelines": false,
+    "PluginHotReloadEnabled": true,
+    "PluginAutoLoadEnabled": true,
+    "ServerLanguage": "ru",
+    "UnlockConCommands": true,
+    "UnlockConVars": true,
+    "AutoUpdateEnabled": true,
+    "AutoUpdateURL": "http://gamedata.cssharp.dev"
+}

@@ -1,0 +1,99 @@
+{
+
+    "UpdateInfoTime": 600, // in seconds
+
+    "dbSettings":
+    {
+        "host": "46.174.50.7",
+        "database": "u36806_lrweb",
+        "user": "u36806_lrweb",
+        "password": "282871bdbd",
+        "table": "lvl_base"
+    },
+
+    "ranks": {
+        "Без ранга": 0,
+        "Silver I": 50,
+        "Silver II": 100,
+        "Silver III": 150,
+        "Silver IV": 300,
+        "Silver Elite": 400,
+        "Silver Elite Master": 500,
+        "Gold Nova I": 600,
+        "Gold Nova II": 700,
+        "Gold Nova III": 800,
+        "Gold Nova Master": 900,
+        "Master Guardian I": 1000,
+        "Master Guardian II": 1400,
+        "Master Guardian Elite": 1600,
+        "BigStar": 2100,
+        "Legendary Eagle": 2600,
+        "Legendary Eagle Master": 2900,
+        "Supreme": 3400,
+        "The Global Elite": 4500
+    },
+
+    "TextSettings": {
+        
+        "fontName": "Impact",
+        "onFace": false,
+        
+        "TextProperties": [
+            {
+                "text": "Топ 10 игроков по опыту:",
+                "fontSize": 27,
+                "color": [255, 255, 255],
+                "fullBright": true
+            },
+            {
+                "text": "1. {NAME} - {EXP}",
+                "fontSize": 25,
+                "color": [255, 215, 0],
+                "fullBright": true
+            },
+            {
+                "text": "2. {NAME} - {EXP}",
+                "fontSize": 25,
+                "color": [211, 211, 211],
+                "fullBright": true
+            },
+            {
+                "text": "3. {NAME} - {EXP}",
+                "fontSize": 25,
+                "color": [205, 133, 63],
+                "fullBright": true
+            },
+            {
+                "text": "4. {NAME_4} - {EXP_4}\n5. {NAME_5} - {EXP_5}\n6. {NAME_6} - {EXP_6}\n7. {NAME_7} - {EXP_7}\n8. {NAME_8} - {EXP_8}\n9. {NAME_9} - {EXP_9}\n10. {NAME_10} - {EXP_10}",
+                "fontSize": 25,
+                "color": [255, 255, 255],
+                "fullBright": true
+            }
+        ]
+    },
+
+    "messagesList":
+    {
+        "prefix": " {Blue}[ТЕКСТ]{Default} ",
+
+        "mainMenuTitle": "Выбери нужное =) [{Blue}{MAP_NAME}{Default}]",
+        "mainMenuItem1": "Список установленных текстов",
+        "mainMenuItem2": "Добавить новый текст",
+
+        "acceptMenuTextTitle": "Вы действительно хотите сохранить текст?",
+        "acceptMenuItem1": "{Green}Да",
+        "acceptMenuItem2": "{LightRed}Нет",
+        "acceptSuccessMessage": "Текст успешно сохранен",
+        "acceptNoSuccessMessage": "Текст был удален",
+
+        "listMenuTextsTitle": "Список созданных текстов:",
+        "listMenuItemBack": "Вернуться в главное меню",
+        
+        "textManagementMenuTitle": "Что ты хочешь сделать с текстом?",
+        "textManagementMenuItem1": "Телепортироваться",
+        "textManagementMenuItem2": "{LightRed}Удалить к ебеням",
+        "textManagementMenuItem3": "Вернуться к списку",
+        "textManagementErrorMessage": "Ошибка, текст не найден =(",
+        "textManagementSuccessRemoveMessage": "Текст был успешно удален, он пропадет в следующем раунде"
+    }
+}

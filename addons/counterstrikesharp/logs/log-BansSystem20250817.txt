@@ -1,0 +1,15 @@
+2025-08-17 21:12:51.121 +03:00 [EROR] plugin:BlockDB Cant load player bans, e: System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at BansSystem.SteamApi.GetPlayerSummaries(UInt64 steamId)
+   at BansSystem.BlockDBPlugin.LoadPlayerBans(PlayerData player)
+2025-08-17 21:15:43.373 +03:00 [EROR] plugin:BlockDB Cant load player bans, e: System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at BansSystem.SteamApi.GetPlayerSummaries(UInt64 steamId)
+   at BansSystem.BlockDBPlugin.LoadPlayerBans(PlayerData player)
+2025-08-17 21:27:05.124 +03:00 [EROR] plugin:BlockDB Cant load player bans, e: System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.Json.HttpClientJsonExtensions.<FromJsonAsyncCore>g__Core|12_0[TValue,TJsonOptions](HttpClient client, Task`1 responseTask, Boolean usingResponseHeadersRead, CancellationTokenSource linkedCTS, Func`4 deserializeMethod, TJsonOptions jsonOptions, CancellationToken cancellationToken)
+   at BansSystem.SteamApi.GetPlayerSummaries(UInt64 steamId)
+   at BansSystem.BlockDBPlugin.LoadPlayerBans(PlayerData player)

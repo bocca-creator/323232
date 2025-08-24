@@ -1,0 +1,4 @@
+{
+    "adminTakeReport": "{LightRed}[РЕПОРТ]◗ {Default}Администратор {LightRed}{DISPLAY_NAME}{Default} взялся за ваш репорт {Red}❤", // Можно использовать {USERNAME} - отображение username xD / {GLOBAL_NAME} - отображение имени в дискорде / {DISPLAY_NAME} - отображение имени на сервере
+    "adminCloseReport": "{LightRed}[РЕПОРТ]◗ {Default}Администратор {LightRed}{DISPLAY_NAME}{Default} закрыл Ваш репорт на {Grey}{TARGET_NAME}{Default}. Вердикт: {Red}{VERDICT}"  // Можно использовать {USERNAME} - отображение username xD / {GLOBAL_NAME} - отображение имени в дискорде / {DISPLAY_NAME} - отображение имени на сервере
+}

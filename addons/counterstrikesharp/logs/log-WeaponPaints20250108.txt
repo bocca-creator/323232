@@ -1,0 +1,5 @@
+2025-01-08 09:30:22.335 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2025-01-08 12:44:06.366 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2025-01-08 12:48:54.272 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2025-01-08 12:58:41.270 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2025-01-08 12:58:55.989 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Connect Timeout expired.

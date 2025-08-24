@@ -1,0 +1,5 @@
+{
+	"ChatPrefix":"{red}ClearNickname | ",
+	"OnConnect": "{0}{white}Your nickname had {yellow}{1}{white} forbidden words - {green}fixed", // {0} is the prefix, {1} - number of banned words
+	"NotFound" : " {0}{white}No banned words found in your nickname, {green}have a nice game!" // {0} - prefix.
+}

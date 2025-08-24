@@ -1,0 +1,35 @@
+{
+    "resetIfDeath": false,
+    "checkIfNullStats": true,
+    "notifyAllPlayerResetedStats": true,
+    
+    "cmdsResetScore": "rs|resetscore",
+
+    "adminResetScore": {
+        "cmdsOpenMenu": "ars",
+        "accessFlag": "@css/ban",
+        "menuTitle": " {LightRed}[Сброс] Pick a player"
+    },
+
+    "resetType": {
+        "Kills": true,
+        "Deaths": true,
+        "Assists": true,
+        "HeadShotKills": true,
+        "Damage": true,
+        "MVPs": true,
+        "Score": true
+    },
+    
+    "messages": {
+        "client_ResetOnlyDeath": " {LightRed}[Сброс]{Default} Сбросить статистику можно только мертвым.",
+        "client_HaveNullStats": " {LightRed}[Сброс] {Default}У тебя итак нулевая статистика..",
+        "client_StatsReseted": " {LightRed}[Сброс] {Default}Статистика сброшена. (возможно придеится подождать следующего раунда)",
+        "all_Client_T_ResetedStats": " {LightRed}[Сброс] {Gold}{NAME} {Default}сбросил статистику.",
+        "all_Client_CT_ResetedStats": " {LightRed}[Сброс] {Blue}{NAME}  {Default}сбросил статистику.",
+        "all_Client_SPEC_ResetedStats": " {LightRed}[Сброс] {Grey}{NAME}  {Default}сбросил статистику.",
+        "all_AdminResetScore": " {LightRed}[Сброс] {Default}Administrator {NAME} has reset player {TARGET_NAME} stats.",
+
+        "admin_UnsuitablePlayers": " {LightRed}[Сброс] {Default}Lack of suitable players"
+    }
+}

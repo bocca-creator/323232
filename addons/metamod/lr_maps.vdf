@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"lr_maps"
+	"file"	"addons/lr_modules/lr_maps"
+}

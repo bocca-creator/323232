@@ -1,0 +1,173 @@
+2025-01-21 09:30:31.044 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2025-01-21 09:30:31.122 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2025-01-21 09:30:31.129 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/TeleportFix.json
+2025-01-21 09:30:31.131 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2025-01-21 09:30:31.132 +03:00 [WARN] (cssharp:GameDataProvider) GameData Method "RunCommand" loaded a duplicate entry from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json.
+2025-01-21 09:30:31.132 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json
+2025-01-21 09:30:31.133 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 40 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2025-01-21 09:30:31.134 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2025-01-21 09:30:31.141 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2025-01-21 09:30:31.142 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2025-01-21 09:30:31.143 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2025-01-21 09:30:31.326 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ResetScore
+2025-01-21 09:30:31.430 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ResetScore
+2025-01-21 09:30:31.446 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MeowCheckCheats
+2025-01-21 09:30:31.471 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MeowCheckCheats
+2025-01-21 09:30:31.484 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Game-Manager-GoldKingZ
+2025-01-21 09:30:31.508 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Game Manager (Block/Hide Unnecessaries In Game)
+2025-01-21 09:30:31.514 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_Skins
+2025-01-21 09:30:31.515 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Skins
+2025-01-21 09:30:31.521 +03:00 [INFO] (cssharp:PluginContext) Loading plugin TeleportFix
+2025-01-21 09:30:31.532 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin HvH.gg - Teleport/Crasher Fix
+2025-01-21 09:30:31.537 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_MoneyDistributor
+2025-01-21 09:30:31.539 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Money Distributor
+2025-01-21 09:30:31.545 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WorldTextExpTop
+2025-01-21 09:30:31.793 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WorldTextExpTop
+2025-01-21 09:30:31.806 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WarnSystem
+2025-01-21 09:30:31.872 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WarnSystem
+2025-01-21 09:30:31.880 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AdminSessionLog
+2025-01-21 09:30:31.882 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AdminSessionLog
+2025-01-21 09:30:31.888 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ShowDamage
+2025-01-21 09:30:31.954 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ShowDamage by ABKAM
+2025-01-21 09:30:31.966 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ClearNickname
+2025-01-21 09:30:31.978 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ClearNickname
+2025-01-21 09:30:32.035 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DiscordUtilities
+2025-01-21 09:30:32.184 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Discord Utilities
+2025-01-21 09:30:32.196 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2025-01-21 09:30:32.196 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2025-01-21 09:30:32.202 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NoColdown
+2025-01-21 09:30:32.204 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NoColdown
+2025-01-21 09:30:32.209 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Core
+2025-01-21 09:30:32.354 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Core
+2025-01-21 09:30:32.365 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop
+2025-01-21 09:30:32.376 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Shop Core
+2025-01-21 09:30:32.388 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DisableLogs
+2025-01-21 09:30:32.391 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Disable shit logs
+2025-01-21 09:30:32.398 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifySent
+2025-01-21 09:30:32.400 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifySent
+2025-01-21 09:30:32.406 +03:00 [INFO] (cssharp:PluginContext) Loading plugin [RanksPoints] GeoIP
+2025-01-21 09:30:32.595 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [RanksPoints] GeoIP
+2025-01-21 09:30:32.624 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2025-01-21 09:30:32.808 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2025-01-21 09:30:32.827 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Telegram
+2025-01-21 09:30:32.830 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Telegram
+2025-01-21 09:30:32.845 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-21 09:30:32.873 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-21 09:30:32.881 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Advertisement
+2025-01-21 09:30:32.888 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Advertisement
+2025-01-21 09:30:32.896 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ESP
+2025-01-21 09:30:32.897 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Admin] ESP
+2025-01-21 09:30:32.904 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2025-01-21 09:30:32.926 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2025-01-21 09:30:32.937 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2025-01-21 09:30:32.960 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2025-01-21 09:30:32.973 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2025-01-21 09:30:32.981 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2025-01-21 09:30:32.989 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ServerStatus
+2025-01-21 09:30:33.007 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Server Status
+2025-01-21 09:30:33.015 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifyInGame
+2025-01-21 09:30:33.017 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifyInGame
+2025-01-21 09:30:33.032 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ChatRelay
+2025-01-21 09:30:33.039 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Chat Relay
+2025-01-21 09:30:33.055 +03:00 [INFO] (cssharp:PluginContext) Loading plugin vipConvert
+2025-01-21 09:30:33.058 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin vipConvert
+2025-01-21 09:30:33.066 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2025-01-21 09:30:33.073 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2025-01-21 09:30:33.108 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Discord
+2025-01-21 09:30:33.170 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Discord
+2025-01-21 09:30:37.363 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-21 09:30:37.365 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-21 09:30:37.390 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-21 09:30:37.398 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-21 09:30:39.721 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-21 09:30:39.721 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-21 09:30:39.737 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-21 09:30:39.740 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-21 13:29:20.726 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-21 13:29:20.727 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-21 13:29:20.744 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-21 13:29:20.752 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-21 13:46:34.631 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-21 13:46:34.632 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-21 13:46:34.643 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-21 13:46:34.648 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-21 14:02:55.652 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-21 14:02:55.652 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-21 14:02:55.661 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-21 14:02:55.666 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-21 22:56:04.940 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-21 22:56:04.941 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-21 22:56:04.953 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-21 22:56:04.960 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-21 23:03:11.169 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at WeaponPaints.WeaponPaints.OnEntityCreated(CEntityInstance entity) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 220
+   at InvokeStub_OnEntityCreated.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass51_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 290
+   at InvokeStub_Action`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2025-01-21 23:04:19.243 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at WeaponPaints.WeaponPaints.OnEntityCreated(CEntityInstance entity) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 220
+   at InvokeStub_OnEntityCreated.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass51_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 290
+   at InvokeStub_Action`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2025-01-21 23:08:24.429 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at WeaponPaints.WeaponPaints.OnEntityCreated(CEntityInstance entity) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 220
+   at InvokeStub_OnEntityCreated.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass51_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 290
+   at InvokeStub_Action`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2025-01-21 23:10:59.470 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at WeaponPaints.WeaponPaints.OnEntityCreated(CEntityInstance entity) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 220
+   at InvokeStub_OnEntityCreated.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.BasePlugin.<>c__DisplayClass51_0`1.<RegisterListener>b__2(ScriptContext context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/BasePlugin.cs:line 290
+   at InvokeStub_Action`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context)
+2025-01-21 23:17:16.785 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-21 23:17:16.786 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-21 23:17:16.795 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-21 23:17:16.801 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote

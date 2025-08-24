@@ -1,0 +1,24 @@
+2024-12-05 10:04:50.817 +03:00 [EROR] plugin:BlockDB Cant load player bans, e: System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at BansSystem.HttpClientExtensions.GetJson[TBody,T](HttpClient client, String url, TBody body)
+   at BansSystem.BlockDBPlugin.LoadPlayerBans(PlayerData player)
+2024-12-05 16:46:39.785 +03:00 [EROR] plugin:BlockDB Cant load player bans, e: System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at BansSystem.HttpClientExtensions.GetJson[TBody,T](HttpClient client, String url, TBody body)
+   at BansSystem.BlockDBPlugin.LoadPlayerBans(PlayerData player)
+2024-12-05 16:49:49.318 +03:00 [EROR] plugin:BlockDB Cant load player bans, e: System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at BansSystem.HttpClientExtensions.GetJson[TBody,T](HttpClient client, String url, TBody body)
+   at BansSystem.BlockDBPlugin.LoadPlayerBans(PlayerData player)
+2024-12-05 20:07:33.652 +03:00 [EROR] plugin:BlockDB Cant load player bans, e: System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at BansSystem.HttpClientExtensions.GetJson[TBody,T](HttpClient client, String url, TBody body)
+   at BansSystem.BlockDBPlugin.LoadPlayerBans(PlayerData player)
+2024-12-05 20:07:39.460 +03:00 [EROR] plugin:BlockDB Cant load player bans, e: System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at BansSystem.HttpClientExtensions.GetJson[TBody,T](HttpClient client, String url, TBody body)
+   at BansSystem.BlockDBPlugin.LoadPlayerBans(PlayerData player)
+2024-12-05 20:07:56.498 +03:00 [EROR] plugin:BlockDB Cant load player bans, e: System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (Forbidden).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at BansSystem.HttpClientExtensions.GetJson[TBody,T](HttpClient client, String url, TBody body)
+   at BansSystem.BlockDBPlugin.LoadPlayerBans(PlayerData player)

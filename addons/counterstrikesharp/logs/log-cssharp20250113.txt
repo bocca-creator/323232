@@ -1,0 +1,114 @@
+2025-01-13 09:30:18.865 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2025-01-13 09:30:18.922 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2025-01-13 09:30:18.927 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/TeleportFix.json
+2025-01-13 09:30:18.929 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2025-01-13 09:30:18.930 +03:00 [WARN] (cssharp:GameDataProvider) GameData Method "RunCommand" loaded a duplicate entry from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json.
+2025-01-13 09:30:18.930 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 1 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/CS2-Essentials.json
+2025-01-13 09:30:18.931 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 40 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2025-01-13 09:30:18.931 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2025-01-13 09:30:18.938 +03:00 [INFO] (cssharp:AdminManager) Loaded admin data with 1 admins.
+2025-01-13 09:30:18.938 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2025-01-13 09:30:18.940 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2025-01-13 09:30:19.100 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ResetScore
+2025-01-13 09:30:19.196 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ResetScore
+2025-01-13 09:30:19.213 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MeowCheckCheats
+2025-01-13 09:30:19.237 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MeowCheckCheats
+2025-01-13 09:30:19.249 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Game-Manager-GoldKingZ
+2025-01-13 09:30:19.268 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Game Manager (Block/Hide Unnecessaries In Game)
+2025-01-13 09:30:19.274 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_Skins
+2025-01-13 09:30:19.275 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Skins
+2025-01-13 09:30:19.280 +03:00 [INFO] (cssharp:PluginContext) Loading plugin TeleportFix
+2025-01-13 09:30:19.290 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin HvH.gg - Teleport/Crasher Fix
+2025-01-13 09:30:19.295 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop_MoneyDistributor
+2025-01-13 09:30:19.296 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [SHOP] Money Distributor
+2025-01-13 09:30:19.301 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WorldTextExpTop
+2025-01-13 09:30:19.536 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WorldTextExpTop
+2025-01-13 09:30:19.547 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WarnSystem
+2025-01-13 09:30:19.610 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WarnSystem
+2025-01-13 09:30:19.617 +03:00 [INFO] (cssharp:PluginContext) Loading plugin AdminSessionLog
+2025-01-13 09:30:19.619 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin AdminSessionLog
+2025-01-13 09:30:19.625 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ShowDamage
+2025-01-13 09:30:19.691 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ShowDamage by ABKAM
+2025-01-13 09:30:19.706 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ClearNickname
+2025-01-13 09:30:19.717 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin ClearNickname
+2025-01-13 09:30:19.768 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DiscordUtilities
+2025-01-13 09:30:19.907 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Discord Utilities
+2025-01-13 09:30:19.918 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2025-01-13 09:30:19.919 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2025-01-13 09:30:19.925 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NoColdown
+2025-01-13 09:30:19.926 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NoColdown
+2025-01-13 09:30:19.933 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Core
+2025-01-13 09:30:20.067 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Core
+2025-01-13 09:30:20.081 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Shop
+2025-01-13 09:30:20.091 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Shop Core
+2025-01-13 09:30:20.102 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DisableLogs
+2025-01-13 09:30:20.105 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Disable shit logs
+2025-01-13 09:30:20.111 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifySent
+2025-01-13 09:30:20.113 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifySent
+2025-01-13 09:30:20.119 +03:00 [INFO] (cssharp:PluginContext) Loading plugin [RanksPoints] GeoIP
+2025-01-13 09:30:20.304 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [RanksPoints] GeoIP
+2025-01-13 09:30:20.325 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2025-01-13 09:30:20.497 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2025-01-13 09:30:20.516 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Telegram
+2025-01-13 09:30:20.519 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Telegram
+2025-01-13 09:30:20.533 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-13 09:30:20.549 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-13 09:30:20.557 +03:00 [INFO] (cssharp:PluginContext) Loading plugin Advertisement
+2025-01-13 09:30:20.570 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin Advertisement
+2025-01-13 09:30:20.579 +03:00 [INFO] (cssharp:PluginContext) Loading plugin ESP
+2025-01-13 09:30:20.580 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Admin] ESP
+2025-01-13 09:30:20.587 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2025-01-13 09:30:20.607 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2025-01-13 09:30:20.617 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2025-01-13 09:30:20.646 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2025-01-13 09:30:20.659 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2025-01-13 09:30:20.665 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2025-01-13 09:30:20.673 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ServerStatus
+2025-01-13 09:30:20.679 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Server Status
+2025-01-13 09:30:20.687 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_NotifyInGame
+2025-01-13 09:30:20.690 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] NotifyInGame
+2025-01-13 09:30:20.698 +03:00 [INFO] (cssharp:PluginContext) Loading plugin DU_ChatRelay
+2025-01-13 09:30:20.705 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [Discord Utilities] Chat Relay
+2025-01-13 09:30:20.729 +03:00 [INFO] (cssharp:PluginContext) Loading plugin vipConvert
+2025-01-13 09:30:20.733 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin vipConvert
+2025-01-13 09:30:20.740 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2025-01-13 09:30:20.747 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2025-01-13 09:30:20.781 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MRS_Discord
+2025-01-13 09:30:20.840 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin [MRS] Discord
+2025-01-13 09:30:24.960 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-13 09:30:24.962 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-13 09:30:24.987 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-13 09:30:25.003 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-13 09:30:27.353 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-13 09:30:27.354 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-13 09:30:27.363 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-13 09:30:27.364 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-13 15:20:44.261 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> MySqlConnector.MySqlException (0x80004005): Connect Timeout expired.
+ ---> MySqlConnector.MySqlException (0x80004005): Connect Timeout expired.
+   at MySqlConnector.Core.ServerSession.OpenTcpSocketAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 1046
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, MySqlConnection connection, Int64 startingTimestamp, ILoadBalancer loadBalancer, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 425
+   at MySqlConnector.Core.ConnectionPool.ConnectSessionAsync(MySqlConnection connection, Action`4 logMessage, Int64 startingTimestamp, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 428
+   at MySqlConnector.Core.ConnectionPool.ConnectSessionAsync(MySqlConnection connection, Action`4 logMessage, Int64 startingTimestamp, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 433
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, Int64 startingTimestamp, Int32 timeoutMilliseconds, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 111
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, Int64 startingTimestamp, Int32 timeoutMilliseconds, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 144
+   at MySqlConnector.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Int64 startingTimestamp, Activity activity, Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 919
+   at MySqlConnector.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Int64 startingTimestamp, Activity activity, Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 951
+   at MySqlConnector.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 419
+   at MySqlConnector.MySqlConnection.Open() in /_/src/MySqlConnector/MySqlConnection.cs:line 381
+   at WorldTextExpTop.WorldTextExpTop.CheckTop()
+   at InvokeStub_Action.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2025-01-13 21:39:33.673 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-13 21:39:33.674 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-13 21:39:33.690 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-13 21:39:33.699 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote
+2025-01-13 21:52:14.748 +03:00 [INFO] (cssharp:PluginContext) Unloading plugin RockTheVote
+2025-01-13 21:52:14.748 +03:00 [INFO] (cssharp:PluginContext) Finished unloading plugin RockTheVote
+2025-01-13 21:52:14.758 +03:00 [INFO] (cssharp:PluginContext) Loading plugin RockTheVote
+2025-01-13 21:52:14.765 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin RockTheVote

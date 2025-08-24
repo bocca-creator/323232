@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"lr_weapons"
+	"file"	"addons/lr_modules/lr_weapons"
+}

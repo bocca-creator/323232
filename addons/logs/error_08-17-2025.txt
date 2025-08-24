@@ -1,0 +1,120 @@
+L 08/17/2025 - 20:40:09: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:40:09: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:40:09: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:40:09: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:40:10: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:40:24: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:40:24: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:40:24: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:40:24: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:40:24: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:40:31: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:40:32: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:40:32: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:40:32: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:40:32: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:40:40: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:40:40: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:40:41: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:40:41: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:40:41: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:40:48: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:40:48: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:40:48: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:40:48: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:40:48: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:40:58: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:40:58: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:40:58: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:40:58: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:40:58: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:41:13: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:41:13: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:41:13: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:41:13: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:41:14: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:41:22: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:41:22: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:41:23: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:41:23: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:41:23: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:41:32: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:41:32: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:41:32: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:41:32: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:41:33: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:41:48: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:41:48: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:41:48: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:41:48: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:41:48: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:41:57: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:41:57: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:41:57: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:41:57: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:41:57: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:42:06: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:42:06: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:42:06: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:42:06: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:42:06: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:42:16: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:42:16: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:42:16: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:42:16: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:42:16: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:42:23: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:42:23: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:42:23: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:42:23: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:42:23: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:42:30: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:42:30: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:42:30: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:42:30: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:42:30: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:42:38: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:42:38: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:42:38: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:42:38: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:42:38: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:42:50: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:42:50: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:42:50: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:42:50: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:42:50: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:42:57: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:42:57: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:42:57: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:42:57: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:42:58: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:43:04: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:43:04: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:43:05: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:43:05: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:43:05: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:43:15: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:43:15: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:43:15: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:43:15: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:43:15: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:43:22: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:43:22: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:43:22: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:43:22: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:43:22: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:43:34: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/17/2025 - 20:43:35: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/17/2025 - 20:43:35: [GameUtils] Failed to find function to get UTIL_EmitSoundFilter
+L 08/17/2025 - 20:43:35: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/17/2025 - 20:43:35: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:43:44: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:46:05: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:51:03: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 20:55:23: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 21:03:00: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 21:08:13: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 21:11:25: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 21:23:27: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 21:26:56: [fh_vip] Missing Fortnite Hits system plugin
+L 08/17/2025 - 21:29:19: [fh_vip] Missing Fortnite Hits system plugin

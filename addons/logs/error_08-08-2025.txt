@@ -1,0 +1,8 @@
+L 08/08/2025 - 17:27:27: [GameUtils] Failed to find function to get UTIL_Say
+L 08/08/2025 - 17:27:27: [GameUtils] Failed to find function to get UTIL_Say
+L 08/08/2025 - 17:27:27: [GameUtils] Failed to find function to get UTIL_TakeDamage
+L 08/08/2025 - 17:27:27: [GameUtils] Failed to find function to get CBaseModelEntity_SetModel
+L 08/08/2025 - 17:27:27: [GameUtils] Failed to find function to get UTIL_AcceptInput
+L 08/08/2025 - 17:27:27: [GameUtils] Failed to find function to get GetLegacyGameEventListener
+L 08/08/2025 - 17:27:28: [GameUtils] Failed to find function to get GetGameEventManager
+L 08/08/2025 - 17:27:28: [VIP] Missing MYSQL plugin

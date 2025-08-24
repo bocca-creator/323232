@@ -1,0 +1,20 @@
+{
+	"asl.TitleConnect": "Администратор подключился к серверу",
+	"asl.TitleDisconnect": "Администратор отключился от сервера",
+	"asl.SessionLength" : "Продолжительность сеанса",
+	"asl.Administrator" : " Администратор",
+	"asl.AdministratorDescription": "[**{0}**](https://steamcommunity.com/profiles/{1})", // {0} - ник администратора {1} - стим айди администратора
+	"asl.Server" : "Сервер: {0}", // {0} - название сервера
+	"asl.EmbedColorConnect": "#00FF00", // зеленый
+	"asl.EmbedColorDisconnect": "#FF2400", // красный
+    "asl.Hours.One": "час",
+    "asl.Hours.Few": "часа",
+    "asl.Hours.Many": "часов",
+    "asl.Minutes.One": "минута",
+    "asl.Minutes.Few": "минуты",
+    "asl.Minutes.Many": "минут",
+    "asl.Seconds.One": "секунда",
+    "asl.Seconds.Few": "секунды",
+    "asl.Seconds.Many": "секунд",
+    "asl.LessThanSecond": "менее секунды"
+}

@@ -1,0 +1,9 @@
+{
+    "chatPrefix": "{LightRed}[NEW REPORT] {Default} ",
+
+    "chat": "A new report has arrived for {LightRed}{TARGET_NAME}{DEFAULT} from {Green}{PLAYER_NAME}{DEFAULT}nReason: {Grey}{REASON}",
+    "chat_Message": "A new report has arrived for {LightRed}{TARGET_NAME}{DEFAULT} from {Green}{PLAYER_NAME}{DEFAULT}nChat message: {Grey}{REASON}",
+
+    "hud": "<font class='fontSize-sm'><center><b color='#ff2400'>[NEW REPORT]</b></center><br>A new report has arrived for <b color='#ff2400'>{TARGET_NAME}</b><br>Sender <b color='#50c878'>{PLAYER_NAME}</b><br><br>Reason: {REASON}</font>",
+    "hud_Message": "<font class='fontSize-sm'><center><b color='#ff2400'>[NEW REPORT]</b></center><br>A new report has arrived for <b color='#ff2400'>{TARGET_NAME}</b><br>Sender <b color='#50c878'>{PLAYER_NAME}</b><br><br>Chat message: {REASON}</font>"
+}

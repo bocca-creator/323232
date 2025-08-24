@@ -1,0 +1,9 @@
+{
+    "chatPrefix": "{LightRed}[НОВИЙ ЗВІТ] {Default} ",
+
+    "chat": "Надійшов новий звіт на {LightRed}{TARGET_NAME}{DEFAULT} від {Green}{PLAYER_NAME}{DEFAULT}nПричина: {Grey}{REASON}",
+    "chat_Message": "Надійшов новий звіт на {LightRed}{TARGET_NAME}{DEFAULT} від {Green}{PLAYER_NAME}{DEFAULT}nПовідомлення з чату: {Grey}{REASON}",
+
+    "hud": "<font class='fontSize-sm'><center><b color='#ff2400'>[НОВИЙ ЗВІТ]</b></center><br>Надійшов новий звіт на <b color='#ff2400'>{TARGET_NAME}</b><br>Відправник <b color='#50c878'>{PLAYER_NAME}</b><br><br>Причина: {REASON}</font>",
+    "hud_Message": "<font class='fontSize-sm'><center><b color='#ff2400'>[НОВИЙ ЗВІТ]</b></center><br>Надійшов новий звіт на <b color='#ff2400'>{TARGET_NAME}</b><br>Відправник <b color='#50c878'>{PLAYER_NAME}</b><br><br>Повідомлення з чату: {REASON}</font>"
+}

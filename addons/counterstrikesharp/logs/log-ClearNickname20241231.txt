@@ -1,0 +1,4 @@
+2024-12-31 09:16:14.526 +03:00 [WARN] plugin:ClearNickname ClearNickname | Changed nickname from 'neverlose.cc' to '' for player with SteamID 76561199125031682
+2024-12-31 09:30:16.025 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145
+2024-12-31 11:14:29.436 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145
+2024-12-31 15:09:30.928 +03:00 [INFO] plugin:ClearNickname ClearNickname | Configuration file loaded. Badword's count: 145
